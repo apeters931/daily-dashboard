@@ -19,7 +19,7 @@
 ## National News
 - Headlines with LLM summaries & link to full article
 
-## Arts
+## Arts & Entertainment
 - Charts (music, movies, books)
 - New / upcoming releases (music & movies)
 - Reviews (music & movies)
