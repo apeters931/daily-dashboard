@@ -43,32 +43,36 @@ Your Python script can write more than one file.
 
 Example:
 
+```
 site/data/players.json
 site/data/teams.json
 site/data/stats.json
+```
 
 
 Deploy everything under /site
 
+```
 - name: Run Python script to generate JSON
   run: |
     mkdir -p site/data
     python scripts/make_players.py -o site/data/players.json
     python scripts/make_teams.py -o site/data/teams.json
     python scripts/make_stats.py -o site/data/stats.json
+```
 
 
 Deploy to GitHub Pages (all files, not just JSON)
-
+```
 - name: Deploy to GitHub Pages
   uses: peaceiris/actions-gh-pages@v3
   with:
     github_token: ${{ secrets.GITHUB_TOKEN }}
     publish_dir: ./site
     publish_branch: gh-pages
+````
 
 ```
-
 📂 Example Folder Layout
 repo-root/
 ├── site/                  # published to GitHub Pages
@@ -83,7 +87,6 @@ repo-root/
 │   ├── make_teams.py
 │   └── make_stats.py
 └── .github/workflows/deploy.yml
-
 ```
 
 🌐 URLs
@@ -99,6 +102,7 @@ https://<username>.github.io/<repo>/data/teams.json
 https://<username>.github.io/<repo>/data/stats.json
 
 🎯 Fetching them in client-side JS
+```
 async function loadData() {
   const players = await fetch('data/players.json').then(r => r.json());
   const teams = await fetch('data/teams.json').then(r => r.json());
@@ -107,6 +111,7 @@ async function loadData() {
   console.log(players, teams, stats);
 }
 loadData();
+```
 
 
 👉 So the answer is: you don’t need a different setup. Just generate all the JSON files into your published folder (e.g., site/), and GitHub Pages will happily serve all of them.
