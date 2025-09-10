@@ -67,6 +67,8 @@ Deploy to GitHub Pages (all files, not just JSON)
     publish_dir: ./site
     publish_branch: gh-pages
 
+```
+
 📂 Example Folder Layout
 repo-root/
 ├── site/                  # published to GitHub Pages
@@ -81,6 +83,8 @@ repo-root/
 │   ├── make_teams.py
 │   └── make_stats.py
 └── .github/workflows/deploy.yml
+
+```
 
 🌐 URLs
 
