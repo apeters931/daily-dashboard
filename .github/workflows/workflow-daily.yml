@@ -24,4 +24,4 @@ jobs:
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
       - name: Run script
-        run: get_upcoming_games_mlb_data.py
+        run: python3 get_upcoming_games_mlb_data.py
