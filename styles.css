@@ -1,0 +1,66 @@
+/* Reset some default spacing */
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #eaeaea;
+}
+
+/* Style the header */
+header {
+  display: flex;
+  justify-content: space-between; /* logo left, nav right */
+  align-items: center;
+  padding: 10px 20px;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 15px;
+}
+nav a {
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+}
+nav a.active {
+  font-weight: 700;
+  text-decoration: underline; /* highlight current page */
+}
+
+  /* Style the image in the top left */
+.title-image {
+  height: 60px;
+  width: auto;
+}
+  
+/* Optional: add main content padding */
+main {
+  padding: 20px;
+}
+
+  /* Centered container below the header */
+.main-paper-container {
+  max-width: 800px;      /* Optional: limit the width */
+  margin: 20px auto 0;   /* top margin 20px, horizontally centered */
+  padding: 20px;
+  text-align: center;    /* center text inside */
+  background-color: #f4f4f4; /* optional: light background */
+  border-radius: 8px;    /* optional: rounded corners */
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1); /* optional: subtle shadow */
+}
+
+.main-paper-container h1 {
+  font-size: 24px;   /* change this to whatever size you want */
+}
+
+#games-list h3 {
+  margin: 10px !important;
+}
+
+#games-list p {
+  margin: 2px !important;
+}

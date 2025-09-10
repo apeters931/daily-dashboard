@@ -1,0 +1,27 @@
+name: Run Python Script Daily
+
+on:
+  schedule:
+    # Runs every day at 10:00 UTC (~5 AM CT)
+    - cron: '0 10 * * *'
+  workflow_dispatch: # Optional: allow manual trigger
+
+jobs:
+  run-python:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12' # choose the version you need
+
+      - name: Install dependencies
+        run: |
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Run script
+        run: get_upcoming_games_mlb_data.py
