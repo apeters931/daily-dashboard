@@ -24,3 +24,10 @@
 - New / upcoming releases (music & movies)
 - Reviews (music & movies)
 - Shows in your area / shows of groups you're interested in?
+
+
+# For Developing
+
+`python3 -m http.server 8000`
+
+`http://localhost:8000/sports.html`

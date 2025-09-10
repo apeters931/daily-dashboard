@@ -1,5 +1,3 @@
-# if home_team == 'Milwaukee Brewers' or away_team == 'Milwaukee Brewers':
-
 import requests
 import pandas as pd
 from datetime import datetime
