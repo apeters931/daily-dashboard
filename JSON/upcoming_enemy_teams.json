@@ -1,16 +1,16 @@
 [
     {
-        "away_team":"Tampa Bay Rays",
-        "home_team":"Chicago Cubs",
-        "away_pitcher":"Adrian Houser",
-        "away_wins":8,
-        "away_losses":4,
-        "away_era":"3.11",
-        "home_pitcher":"Shota Imanaga",
-        "home_wins":9,
-        "home_losses":7,
-        "home_era":"3.29",
-        "game_time_ct":"2025-09-14 01:20 PM",
-        "networks":"WDAE 620 AM\/95.3 FM, 670 The Score, Marquee Sports Network, FanDuel Sports Network Sun, WRTO 1200, WQBN\/1300AM"
+        "away_team":"Chicago Cubs",
+        "home_team":"Pittsburgh Pirates",
+        "away_pitcher":"Jameson Taillon",
+        "away_wins":9,
+        "away_losses":6,
+        "away_era":"4.15",
+        "home_pitcher":"Braxton Ashcraft",
+        "home_wins":4,
+        "home_losses":2,
+        "home_era":"2.47",
+        "game_time_ct":"2025-09-15 05:40 PM",
+        "networks":"670 The Score, Marquee Sports Network, SportsNet-PIT, SportsNet-PIT+, KDKA-FM 93.7, MLBN (out-of-market only), MLBN (out-of-market only), WRTO 1200"
     }
 ]
