@@ -3,13 +3,13 @@
 const jsonFiles = [
     './JSON/hourly_weather.json',
     './JSON/weekly_forecast.json',
-    './JSON/upcoming_your_team.json',
+    './JSON/upcoming_your_teams.json',
     './JSON/upcoming_enemy_teams.json',
     './JSON/brewers_game_log.json',
     './JSON/brewers_game_log.json',
     './JSON/brewers_inning_scores.json',
     './JSON/brewers_pitching_stats.json',
-    './JSON/brewers_hitting_stats.json',
+    './JSON/brewers_player_hitting_stats.json',
     
     // Add any other JSON files you have in the JSON directory
 ];
