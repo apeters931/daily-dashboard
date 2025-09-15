@@ -1,10 +1,10 @@
 // A list of the JSON files to fetch.
 // Update these paths if your file names or directory structure changes.
 const jsonFiles = [
-    './JSON/hourly_.json',
+    './JSON/hourly_weather.json',
     './JSON/weekly_forecast.json',
     './JSON/upcoming_your_team.json',
-    './JSON/upcoming_enemy_team.json',
+    './JSON/upcoming_enemy_teams.json',
     './JSON/brewers_game_log.json',
     './JSON/brewers_game_log.json',
     './JSON/brewers_inning_scores.json',
