@@ -5,7 +5,7 @@ from zoneinfo import ZoneInfo
 from datetime import date
 
 your_teams = ['Milwaukee Brewers']
-your_enemy_teams = ['Chicago Cub']
+your_enemy_teams = ['Chicago Cubs']
 timezone = "America/Chicago"
 
 def get_pitcher_stats(player_id):
