@@ -1,11 +1,16 @@
 // A list of the JSON files to fetch.
 // Update these paths if your file names or directory structure changes.
 const jsonFiles = [
-    './JSON/madison_hourly_weather_2025-09-14.json', // Example: Replace with your dynamic file name
-    './JSON/madison_weekly_forecast.json',
-    './JSON/upcoming_games.json',
-    './JSON/yesterdays_games.json',
-    './JSON/madison_14_day_forecast.json',
+    './JSON/hourly_.json',
+    './JSON/weekly_forecast.json',
+    './JSON/upcoming_your_team.json',
+    './JSON/upcoming_enemy_team.json',
+    './JSON/brewers_game_log.json',
+    './JSON/brewers_game_log.json',
+    './JSON/brewers_inning_scores.json',
+    './JSON/brewers_pitching_stats.json',
+    './JSON/brewers_hitting_stats.json',
+    
     // Add any other JSON files you have in the JSON directory
 ];
 

@@ -30,12 +30,17 @@ jobs:
       - name: Create JSON directory
         run: mkdir -p JSON
 
-      - name: Generate all JSON files
-        run: |
-          python get_data/MLB/upcoming_games.py
-          python get_data/MLB/yesterdays_games.py
-          python get_data/weather/hourly.py
-          python get_data/weather/weekly.py
+      - name: Generate Upcoming MLB JSON
+        run: python get_data/MLB/upcoming_games.py
+
+      - name: Generate Yesterday's MLB JSON
+        run: python get_data/MLB/yesterdays_games.py
+
+      - name: Generate Hourly Weather JSON
+        run: python get_data/weather/hourly.py
+
+      - name: Generate Weekly Weather JSON
+        run: python get_data/weather/weekly.py
 
       - name: Commit and push JSON files
         uses: stefanzweifel/git-auto-commit-action@v5
