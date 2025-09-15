@@ -1,5 +1,4 @@
-// A list of the JSON files to fetch.
-// This list now includes the specific files for yesterday's games.
+// A single list of all JSON files to be fetched
 const jsonFiles = [
     './JSON/upcoming_your_teams.json',
     './JSON/upcoming_enemy_teams.json',
@@ -26,8 +25,10 @@ const fetchAndDisplayJson = async (filePath) => {
             targetElementId = 'hourly-weather';
         } else if (filePath.includes('weekly')) {
             targetElementId = 'weekly-weather';
-        } else if (filePath.includes('upcoming')) {
-            targetElementId = 'upcoming-games';
+        } else if (filePath.includes('upcoming_your_teams')) {
+            targetElementId = 'upcoming-your-teams';
+        } else if (filePath.includes('upcoming_enemy_teams')) {
+            targetElementId = 'upcoming-enemy-teams';
         } else if (filePath.includes('inning_scores')) {
             targetElementId = 'brewers-inning-scores';
         } else if (filePath.includes('hitting_stats')) {
@@ -35,7 +36,7 @@ const fetchAndDisplayJson = async (filePath) => {
         } else if (filePath.includes('pitching_stats')) {
             targetElementId = 'brewers-pitching-stats';
         } else {
-            // Handle other files or log an error if no match is found
+            // Handle other files or log a warning if no match is found
             console.warn(`No specific container found for file: ${filePath}`);
             return;
         }
@@ -45,7 +46,7 @@ const fetchAndDisplayJson = async (filePath) => {
             // Use JSON.stringify for clean, formatted output
             container.querySelector('pre').textContent = JSON.stringify(jsonData, null, 2);
         } else {
-            console.error(`Could not find a container for file: ${filePath}`);
+            console.error(`Could not find a container with ID: ${targetElementId} for file: ${filePath}`);
         }
 
     } catch (error) {
