@@ -1,27 +1,42 @@
-name: Run Python Script Daily
+name: Generate JSON Data
 
 on:
   schedule:
-    # Runs every day at 10:00 UTC (~5 AM CT)
-    - cron: '0 10 * * *'
-  workflow_dispatch: # Optional: allow manual trigger
+    - cron: '0 5 * * *' # This will run the action once a day at 5 AM UTC
+  workflow_dispatch: # Allows for manual execution from the GitHub UI
 
 jobs:
-  run-python:
+  generate-json:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout repository code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11' # choose the version you need
+          python-version: '3.10'
 
       - name: Install dependencies
-        run: |
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+        run: pip install requests
 
-      - name: Run script
-        run: python3 get_upcoming_games_mlb_data.py
+      - name: Generate Upcoming MLB JSON
+        run: python get_data/MLB/upcoming_games.py
+
+      - name: Generate Yesterday's MLB JSON
+        run: python get_data/MLB/yesterdays_games.py
+
+      - name: Generate Hourly Weather JSON
+        run: python get_data/weather/hourly.py
+
+      - name: Generate Weekly Weather JSON
+        run: python get_data/weather/weekly.py     
+
+      - name: Commit and push JSON files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Automated: Update JSON files"
+          branch: "main"
