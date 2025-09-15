@@ -1,0 +1,150 @@
+{
+  "location": "Madison",
+  "date": "2025-09-14",
+  "hourly_weather": [
+    {
+      "time": "2025-09-14 00:00",
+      "temperature_fahrenheit": 70.6,
+      "condition": "Overcast ",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-09-14 01:00",
+      "temperature_fahrenheit": 69.7,
+      "condition": "Overcast ",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-09-14 02:00",
+      "temperature_fahrenheit": 69.1,
+      "condition": "Overcast ",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-09-14 03:00",
+      "temperature_fahrenheit": 66.2,
+      "condition": "Overcast ",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-09-14 04:00",
+      "temperature_fahrenheit": 64.9,
+      "condition": "Fog",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-09-14 05:00",
+      "temperature_fahrenheit": 64.0,
+      "condition": "Fog",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-09-14 06:00",
+      "temperature_fahrenheit": 63.4,
+      "condition": "Fog",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-09-14 07:00",
+      "temperature_fahrenheit": 63.1,
+      "condition": "Fog",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-09-14 08:00",
+      "temperature_fahrenheit": 63.1,
+      "condition": "Mist",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-09-14 09:00",
+      "temperature_fahrenheit": 65.4,
+      "condition": "Mist",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-09-14 10:00",
+      "temperature_fahrenheit": 67.1,
+      "condition": "Overcast ",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-09-14 11:00",
+      "temperature_fahrenheit": 68.7,
+      "condition": "Overcast ",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-09-14 12:00",
+      "temperature_fahrenheit": 71.0,
+      "condition": "Overcast ",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-09-14 13:00",
+      "temperature_fahrenheit": 74.1,
+      "condition": "Cloudy ",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-09-14 14:00",
+      "temperature_fahrenheit": 76.9,
+      "condition": "Sunny",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-09-14 15:00",
+      "temperature_fahrenheit": 78.4,
+      "condition": "Sunny",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-09-14 16:00",
+      "temperature_fahrenheit": 78.9,
+      "condition": "Sunny",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-09-14 17:00",
+      "temperature_fahrenheit": 79.4,
+      "condition": "Sunny",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-09-14 18:00",
+      "temperature_fahrenheit": 77.8,
+      "condition": "Sunny",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-09-14 19:00",
+      "temperature_fahrenheit": 73.4,
+      "condition": "Sunny",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-09-14 20:00",
+      "temperature_fahrenheit": 70.0,
+      "condition": "Clear ",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-09-14 21:00",
+      "temperature_fahrenheit": 67.5,
+      "condition": "Clear ",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-09-14 22:00",
+      "temperature_fahrenheit": 69.1,
+      "condition": "Clear ",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-09-14 23:00",
+      "temperature_fahrenheit": 63.8,
+      "condition": "Clear ",
+      "chance_of_rain_percent": 0
+    }
+  ]
+}

@@ -1,22 +1,30 @@
 [
     {
-        "full_name": "Edwin Uceta",
+        "full_name": "Pete Fairbanks",
         "team_side": "away",
         "innings_pitched": "1.0",
-        "runs": 2,
-        "earned_runs": 2,
+        "runs": 0,
+        "earned_runs": 0,
         "strikeouts": 2
     },
     {
-        "full_name": "Adrian Houser",
+        "full_name": "Garrett Cleavinger",
         "team_side": "away",
-        "innings_pitched": "6.0",
-        "runs": 2,
-        "earned_runs": 2,
-        "strikeouts": 2
+        "innings_pitched": "1.0",
+        "runs": 1,
+        "earned_runs": 1,
+        "strikeouts": 1
     },
     {
-        "full_name": "Garrett Acton",
+        "full_name": "Griffin Jax",
+        "team_side": "away",
+        "innings_pitched": "1.0",
+        "runs": 0,
+        "earned_runs": 0,
+        "strikeouts": 1
+    },
+    {
+        "full_name": "Bryan Baker",
         "team_side": "away",
         "innings_pitched": "1.0",
         "runs": 0,
@@ -24,15 +32,31 @@
         "strikeouts": 0
     },
     {
-        "full_name": "Javier Assad",
+        "full_name": "Drew Rasmussen",
+        "team_side": "away",
+        "innings_pitched": "5.0",
+        "runs": 3,
+        "earned_runs": 3,
+        "strikeouts": 5
+    },
+    {
+        "full_name": "Porter Hodge",
         "team_side": "home",
-        "innings_pitched": "2.1",
+        "innings_pitched": "1.0",
+        "runs": 1,
+        "earned_runs": 1,
+        "strikeouts": 2
+    },
+    {
+        "full_name": "Caleb Thielbar",
+        "team_side": "home",
+        "innings_pitched": "1.0",
         "runs": 0,
         "earned_runs": 0,
         "strikeouts": 1
     },
     {
-        "full_name": "Caleb Thielbar",
+        "full_name": "Drew Pomeranz",
         "team_side": "home",
         "innings_pitched": "0.2",
         "runs": 0,
@@ -40,19 +64,19 @@
         "strikeouts": 0
     },
     {
-        "full_name": "Shota Imanaga",
+        "full_name": "Colin Rea",
         "team_side": "home",
-        "innings_pitched": "5.0",
+        "innings_pitched": "5.1",
         "runs": 3,
         "earned_runs": 3,
-        "strikeouts": 9
+        "strikeouts": 5
     },
     {
-        "full_name": "Andrew Kittredge",
+        "full_name": "Brad Keller",
         "team_side": "home",
         "innings_pitched": "1.0",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 3
+        "runs": 1,
+        "earned_runs": 1,
+        "strikeouts": 0
     }
 ]
