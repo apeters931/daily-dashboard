@@ -23,6 +23,9 @@ jobs:
       - name: Install dependencies from requirements.txt
         run: pip install -r requirements.txt
 
+      - name: Create JSON directory
+        run: mkdir -p JSON
+
       - name: Generate Upcoming MLB JSON
         run: python get_data/MLB/upcoming_games.py
 
