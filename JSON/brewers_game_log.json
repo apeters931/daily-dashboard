@@ -6219,8 +6219,8 @@
               "pitchData": {
                 "startSpeed": 75.9,
                 "endSpeed": 70.6,
-                "strikeZoneTop": 3.49316621372725,
-                "strikeZoneBottom": 1.68847037973232,
+                "strikeZoneTop": 3.49316433496248,
+                "strikeZoneBottom": 1.53433329921732,
                 "strikeZoneWidth": 17.0,
                 "strikeZoneDepth": 17.0,
                 "coordinates": {
@@ -11036,8 +11036,8 @@
               "pitchData": {
                 "startSpeed": 90.1,
                 "endSpeed": 83.1,
-                "strikeZoneTop": 3.33891565738738,
-                "strikeZoneBottom": 1.57959855155438,
+                "strikeZoneTop": 3.59230211255525,
+                "strikeZoneBottom": 1.57959960037196,
                 "strikeZoneWidth": 17.0,
                 "strikeZoneDepth": 17.0,
                 "coordinates": {
@@ -11803,8 +11803,8 @@
               "pitchData": {
                 "startSpeed": 93.4,
                 "endSpeed": 85.6,
-                "strikeZoneTop": 3.57854738053182,
-                "strikeZoneBottom": 1.66000132526842,
+                "strikeZoneTop": 3.57854695162037,
+                "strikeZoneBottom": 1.52614364109888,
                 "strikeZoneWidth": 17.0,
                 "strikeZoneDepth": 17.0,
                 "coordinates": {
@@ -12403,8 +12403,8 @@
               "pitchData": {
                 "startSpeed": 92.8,
                 "endSpeed": 84.8,
-                "strikeZoneTop": 3.23018850205201,
-                "strikeZoneBottom": 1.52000202251932,
+                "strikeZoneTop": 3.33158601433386,
+                "strikeZoneBottom": 1.43698840514665,
                 "strikeZoneWidth": 17.0,
                 "strikeZoneDepth": 17.0,
                 "coordinates": {
@@ -12952,8 +12952,8 @@
               "pitchData": {
                 "startSpeed": 77.4,
                 "endSpeed": 71.3,
-                "strikeZoneTop": 3.25999801358692,
-                "strikeZoneBottom": 1.53218013544689,
+                "strikeZoneTop": 3.36958262845638,
+                "strikeZoneBottom": 1.53217985981391,
                 "strikeZoneWidth": 17.0,
                 "strikeZoneDepth": 17.0,
                 "coordinates": {
@@ -17659,13 +17659,13 @@
                 "description": "Foul",
                 "code": "F",
                 "ballColor": "rgba(170, 21, 11, 1.0)",
-                "trailColor": "rgba(50, 50, 50, 1.0)",
+                "trailColor": "rgba(0, 34, 255, 1.0)",
                 "isInPlay": false,
                 "isStrike": true,
                 "isBall": false,
                 "type": {
-                  "code": "ST",
-                  "description": "Sweeper"
+                  "code": "CU",
+                  "description": "Curveball"
                 },
                 "isOut": false,
                 "hasReview": false
@@ -17710,7 +17710,7 @@
                   "spinDirection": 41
                 },
                 "zone": 14,
-                "typeConfidence": 0.47,
+                "typeConfidence": 2.0,
                 "plateTime": 0.47136046025603573,
                 "extension": 6.445283140663718
               },
@@ -22092,8 +22092,8 @@
               "pitchData": {
                 "startSpeed": 94.5,
                 "endSpeed": 86.2,
-                "strikeZoneTop": 3.17049481432272,
-                "strikeZoneBottom": 1.58698131879583,
+                "strikeZoneTop": 3.17049303580754,
+                "strikeZoneBottom": 1.40381350716154,
                 "strikeZoneWidth": 17.0,
                 "strikeZoneDepth": 17.0,
                 "coordinates": {
@@ -23176,8 +23176,8 @@
               "pitchData": {
                 "startSpeed": 93.1,
                 "endSpeed": 84.4,
-                "strikeZoneTop": 3.10000014350655,
-                "strikeZoneBottom": 1.51615365361819,
+                "strikeZoneTop": 3.16457955983934,
+                "strikeZoneBottom": 1.51615253575731,
                 "strikeZoneWidth": 17.0,
                 "strikeZoneDepth": 17.0,
                 "coordinates": {
@@ -24467,8 +24467,8 @@
               "pitchData": {
                 "startSpeed": 93.0,
                 "endSpeed": 84.9,
-                "strikeZoneTop": 3.26675303905814,
-                "strikeZoneBottom": 1.56596464797342,
+                "strikeZoneTop": 3.26675133400775,
+                "strikeZoneBottom": 1.56596619705221,
                 "strikeZoneWidth": 17.0,
                 "strikeZoneDepth": 17.0,
                 "coordinates": {
@@ -28898,8 +28898,8 @@
               "pitchData": {
                 "startSpeed": 95.3,
                 "endSpeed": 86.5,
-                "strikeZoneTop": 3.12565364042796,
-                "strikeZoneBottom": 1.46184673720476,
+                "strikeZoneTop": 3.18087241787306,
+                "strikeZoneBottom": 1.60917659377493,
                 "strikeZoneWidth": 17.0,
                 "strikeZoneDepth": 17.0,
                 "coordinates": {
@@ -28929,7 +28929,7 @@
                   "spinRate": 2630,
                   "spinDirection": 219
                 },
-                "zone": 9,
+                "zone": 14,
                 "typeConfidence": 0.56,
                 "plateTime": 0.39773222620320103,
                 "extension": 5.858719182354535
@@ -30149,8 +30149,8 @@
               "pitchData": {
                 "startSpeed": 86.2,
                 "endSpeed": 79.3,
-                "strikeZoneTop": 3.35744492239991,
-                "strikeZoneBottom": 1.59502540437267,
+                "strikeZoneTop": 3.58554342061219,
+                "strikeZoneBottom": 1.59502634499793,
                 "strikeZoneWidth": 17.0,
                 "strikeZoneDepth": 17.0,
                 "coordinates": {
@@ -30180,7 +30180,7 @@
                   "spinRate": 2643,
                   "spinDirection": 62
                 },
-                "zone": 12,
+                "zone": 2,
                 "typeConfidence": 0.78,
                 "plateTime": 0.4360945374447489,
                 "extension": 5.82860590545425
@@ -31050,8 +31050,8 @@
               "pitchData": {
                 "startSpeed": 97.0,
                 "endSpeed": 88.2,
-                "strikeZoneTop": 3.42969565801547,
-                "strikeZoneBottom": 1.61993490331729,
+                "strikeZoneTop": 3.42969621448174,
+                "strikeZoneBottom": 1.79037356748635,
                 "strikeZoneWidth": 17.0,
                 "strikeZoneDepth": 17.0,
                 "coordinates": {
@@ -31081,7 +31081,7 @@
                   "spinRate": 2391,
                   "spinDirection": 145
                 },
-                "zone": 7,
+                "zone": 13,
                 "typeConfidence": 0.8,
                 "plateTime": 0.39035060799709065,
                 "extension": 6.255787403497959
@@ -31122,8 +31122,8 @@
               "pitchData": {
                 "startSpeed": 96.9,
                 "endSpeed": 87.9,
-                "strikeZoneTop": 3.46497136216711,
-                "strikeZoneBottom": 1.64000150821239,
+                "strikeZoneTop": 3.46497260475056,
+                "strikeZoneBottom": 1.55925105120221,
                 "strikeZoneWidth": 17.0,
                 "strikeZoneDepth": 17.0,
                 "coordinates": {
@@ -33895,8 +33895,8 @@
               "pitchData": {
                 "startSpeed": 94.2,
                 "endSpeed": 85.4,
-                "strikeZoneTop": 3.75696995932534,
-                "strikeZoneBottom": 1.82053710821151,
+                "strikeZoneTop": 3.81566484092663,
+                "strikeZoneBottom": 1.82054027068725,
                 "strikeZoneWidth": 17.0,
                 "strikeZoneDepth": 17.0,
                 "coordinates": {
@@ -36204,8 +36204,8 @@
               "pitchData": {
                 "startSpeed": 96.6,
                 "endSpeed": 87.9,
-                "strikeZoneTop": 3.47000044274557,
-                "strikeZoneBottom": 1.5955236336962,
+                "strikeZoneTop": 3.47000131759841,
+                "strikeZoneBottom": 1.5955226514046,
                 "strikeZoneWidth": 17.0,
                 "strikeZoneDepth": 17.0,
                 "coordinates": {
