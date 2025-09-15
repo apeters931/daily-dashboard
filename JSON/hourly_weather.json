@@ -136,13 +136,13 @@
     },
     {
       "time": "2025-09-14 22:00",
-      "temperature_fahrenheit": 69.1,
+      "temperature_fahrenheit": 65.5,
       "condition": "Clear ",
       "chance_of_rain_percent": 0
     },
     {
       "time": "2025-09-14 23:00",
-      "temperature_fahrenheit": 63.8,
+      "temperature_fahrenheit": 68.5,
       "condition": "Clear ",
       "chance_of_rain_percent": 0
     }
