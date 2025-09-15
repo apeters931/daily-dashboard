@@ -1,17 +1,17 @@
 // A list of the JSON files to fetch.
-// Update these paths if your file names or directory structure changes.
 const jsonFiles = [
-    './JSON/hourly_weather.json',
-    './JSON/weekly_forecast.json',
-    './JSON/upcoming_your_teams.json',
     './JSON/upcoming_enemy_teams.json',
-    './JSON/brewers_game_log.json',
+    './JSON/upcoming_your_teams.json',
     './JSON/brewers_game_log.json',
     './JSON/brewers_inning_scores.json',
     './JSON/brewers_pitching_stats.json',
     './JSON/brewers_player_hitting_stats.json',
-    
-    // Add any other JSON files you have in the JSON directory
+    './JSON/cubs_game_log.json',
+    './JSON/cubs_inning_scores.json',
+    './JSON/cubs_pitching_stats.json',
+    './JSON/cubs_player_hitting_stats.json',
+    './JSON/weekly_forecast.json',
+    './JSON/hourly_weather.json'
 ];
 
 // Asynchronously fetches and displays a single JSON file
@@ -27,17 +27,22 @@ const fetchAndDisplayJson = async (filePath) => {
         let targetElementId;
         if (filePath.includes('hourly')) {
             targetElementId = 'hourly-weather';
-        } else if (filePath.includes('weekly') || filePath.includes('14_day')) {
+        } else if (filePath.includes('weekly')) {
             targetElementId = 'weekly-weather';
         } else if (filePath.includes('upcoming')) {
             targetElementId = 'upcoming-games';
-        } else if (filePath.includes('yesterdays')) {
+        } else if (filePath.includes('yesterdays') || filePath.includes('game_log')) {
             targetElementId = 'yesterday-games';
+        } else if (filePath.includes('hitting_stats')) {
+            targetElementId = 'brewers-hitting-stats';
+        } else if (filePath.includes('pitching_stats')) {
+            targetElementId = 'brewers-pitching-stats';
+        } else if (filePath.includes('inning_scores')) {
+            targetElementId = 'brewers-inning-scores';
         }
 
         const container = document.getElementById(targetElementId);
         if (container) {
-            // Use JSON.stringify for clean, formatted output
             container.querySelector('pre').textContent = JSON.stringify(jsonData, null, 2);
         } else {
             console.error(`Could not find a container for file: ${filePath}`);
@@ -45,11 +50,6 @@ const fetchAndDisplayJson = async (filePath) => {
 
     } catch (error) {
         console.error("Failed to fetch or display JSON:", error);
-        // Display error message on the page
-        const errorContainer = document.getElementById('error-messages');
-        if (errorContainer) {
-            errorContainer.textContent += `\nError loading ${filePath}: ${error.message}`;
-        }
     }
 };
 
