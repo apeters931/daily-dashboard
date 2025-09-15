@@ -2,8 +2,12 @@ name: Generate JSON Data
 
 on:
   schedule:
-    - cron: '0 5 * * *' # This will run the action once a day at 5 AM UTC
-  workflow_dispatch: # Allows for manual execution from the GitHub UI
+    - cron: '0 5 * * *' 
+  workflow_dispatch: 
+
+# Add this block to your workflow
+permissions:
+  contents: write
 
 jobs:
   generate-json:
@@ -20,23 +24,18 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Install dependencies from requirements.txt
+      - name: Install dependencies
         run: pip install -r requirements.txt
 
       - name: Create JSON directory
         run: mkdir -p JSON
 
-      - name: Generate Upcoming MLB JSON
-        run: python get_data/MLB/upcoming_games.py
-
-      - name: Generate Yesterday's MLB JSON
-        run: python get_data/MLB/yesterdays_games.py
-
-      - name: Generate Hourly Weather JSON
-        run: python get_data/weather/hourly.py
-
-      - name: Generate Weekly Weather JSON
-        run: python get_data/weather/weekly.py     
+      - name: Generate all JSON files
+        run: |
+          python get_data/MLB/upcoming_games.py
+          python get_data/MLB/yesterdays_games.py
+          python get_data/weather/hourly.py
+          python get_data/weather/weekly.py
 
       - name: Commit and push JSON files
         uses: stefanzweifel/git-auto-commit-action@v5
