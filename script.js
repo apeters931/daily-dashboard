@@ -2,7 +2,6 @@
 const jsonFiles = [
     './JSON/upcoming_enemy_teams.json',
     './JSON/upcoming_your_teams.json',
-    './JSON/brewers_game_log.json',
     './JSON/brewers_inning_scores.json',
     './JSON/brewers_pitching_stats.json',
     './JSON/brewers_player_hitting_stats.json',
