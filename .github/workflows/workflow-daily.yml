@@ -31,15 +31,23 @@ jobs:
         run: mkdir -p JSON
 
       - name: Generate Upcoming MLB JSON
+        env:
+          TZ: 'America/Chicago'
         run: python get_data/MLB/upcoming_games.py
 
       - name: Generate Yesterday's MLB JSON
+        env:
+          TZ: 'America/Chicago'
         run: python get_data/MLB/yesterdays_games.py
 
       - name: Generate Hourly Weather JSON
+        env:
+          TZ: 'America/Chicago'
         run: python get_data/weather/hourly.py
 
       - name: Generate Weekly Weather JSON
+        env:
+          TZ: 'America/Chicago'
         run: python get_data/weather/weekly.py
 
       - name: Commit and push JSON files
