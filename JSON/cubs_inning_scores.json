@@ -1,13 +1,13 @@
 {
     "game_summary": {
-        "away_team": "Tampa Bay Rays",
-        "home_team": "Chicago Cubs"
+        "away_team": "Chicago Cubs",
+        "home_team": "Pittsburgh Pirates"
     },
     "inning_scores": [
         {
             "inning": 1,
-            "away_runs": 2,
-            "home_runs": 1
+            "away_runs": 0,
+            "home_runs": 0
         },
         {
             "inning": 2,
@@ -16,12 +16,12 @@
         },
         {
             "inning": 3,
-            "away_runs": 1,
+            "away_runs": 2,
             "home_runs": 0
         },
         {
             "inning": 4,
-            "away_runs": 0,
+            "away_runs": 1,
             "home_runs": 0
         },
         {
@@ -31,13 +31,13 @@
         },
         {
             "inning": 6,
-            "away_runs": 0,
-            "home_runs": 1
+            "away_runs": 1,
+            "home_runs": 0
         },
         {
             "inning": 7,
             "away_runs": 0,
-            "home_runs": 2
+            "home_runs": 0
         },
         {
             "inning": 8,
@@ -51,10 +51,10 @@
         }
     ],
     "final_score": {
-        "away_runs": 3,
-        "home_runs": 4,
+        "away_runs": 4,
+        "home_runs": 0,
         "away_hits": 9,
-        "home_hits": 10,
+        "home_hits": 3,
         "away_errors": 0,
         "home_errors": 0
     }

@@ -2,15 +2,15 @@
     {
         "away_team":"Chicago Cubs",
         "home_team":"Pittsburgh Pirates",
-        "away_pitcher":"Jameson Taillon",
-        "away_wins":9,
-        "away_losses":6,
-        "away_era":"4.15",
-        "home_pitcher":"Braxton Ashcraft",
-        "home_wins":4,
-        "home_losses":2,
-        "home_era":"2.47",
-        "game_time_ct":"2025-09-15 05:40 PM",
-        "networks":"670 The Score, Marquee Sports Network, SportsNet-PIT, SportsNet-PIT+, KDKA-FM 93.7, MLBN (out-of-market only), MLBN (out-of-market only), WRTO 1200"
+        "away_pitcher":"Cade Horton",
+        "away_wins":10,
+        "away_losses":4,
+        "away_era":"2.70",
+        "home_pitcher":"Paul Skenes",
+        "home_wins":10,
+        "home_losses":9,
+        "home_era":"1.92",
+        "game_time_ct":"2025-09-16 05:40 PM",
+        "networks":"670 The Score, SportsNet-PIT, Marquee Sports Network, KDKA-FM 93.7, WRTO 1200"
     }
 ]
