@@ -2,15 +2,15 @@
     {
         "away_team":"Chicago Cubs",
         "home_team":"Pittsburgh Pirates",
-        "away_pitcher":"Cade Horton",
-        "away_wins":10,
-        "away_losses":4,
-        "away_era":"2.70",
-        "home_pitcher":"Paul Skenes",
-        "home_wins":10,
-        "home_losses":9,
-        "home_era":"1.92",
-        "game_time_ct":"2025-09-16 05:40 PM",
-        "networks":"670 The Score, SportsNet-PIT, Marquee Sports Network, KDKA-FM 93.7, WRTO 1200"
+        "away_pitcher":"Matthew Boyd",
+        "away_wins":13,
+        "away_losses":8,
+        "away_era":"3.05",
+        "home_pitcher":"Johan Oviedo",
+        "home_wins":2,
+        "home_losses":0,
+        "home_era":"2.81",
+        "game_time_ct":"2025-09-17 11:35 AM",
+        "networks":"Marquee Sports Network, 670 The Score, SportsNet-PIT, MLBN (out-of-market only), 100.1 FM\/KDKA-AM 1020, MLBN (out-of-market only), WRTO 1200"
     }
 ]

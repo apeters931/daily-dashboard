@@ -1,24 +1,32 @@
 [
     {
-        "full_name": "Porter Hodge",
+        "full_name": "Cade Horton",
         "team_side": "away",
-        "innings_pitched": "0.2",
+        "innings_pitched": "5.0",
+        "runs": 1,
+        "earned_runs": 1,
+        "strikeouts": 6
+    },
+    {
+        "full_name": "Caleb Thielbar",
+        "team_side": "away",
+        "innings_pitched": "1.0",
         "runs": 0,
         "earned_runs": 0,
         "strikeouts": 0
     },
     {
-        "full_name": "Jameson Taillon",
+        "full_name": "Drew Pomeranz",
         "team_side": "away",
-        "innings_pitched": "6.0",
+        "innings_pitched": "1.0",
         "runs": 0,
         "earned_runs": 0,
-        "strikeouts": 3
+        "strikeouts": 2
     },
     {
-        "full_name": "Michael Soroka",
+        "full_name": "Andrew Kittredge",
         "team_side": "away",
-        "innings_pitched": "2.0",
+        "innings_pitched": "1.0",
         "runs": 0,
         "earned_runs": 0,
         "strikeouts": 2
@@ -26,41 +34,41 @@
     {
         "full_name": "Brad Keller",
         "team_side": "away",
-        "innings_pitched": "0.1",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 1
-    },
-    {
-        "full_name": "Dauri Moreta",
-        "team_side": "home",
-        "innings_pitched": "1.1",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 0
-    },
-    {
-        "full_name": "Kyle Nicolas",
-        "team_side": "home",
-        "innings_pitched": "2.0",
+        "innings_pitched": "1.0",
         "runs": 0,
         "earned_runs": 0,
         "strikeouts": 2
     },
     {
-        "full_name": "Cam Sanders",
+        "full_name": "Paul Skenes",
         "team_side": "home",
-        "innings_pitched": "1.2",
-        "runs": 1,
-        "earned_runs": 1,
-        "strikeouts": 0
-    },
-    {
-        "full_name": "Braxton Ashcraft",
-        "team_side": "home",
-        "innings_pitched": "4.0",
+        "innings_pitched": "3.2",
         "runs": 3,
         "earned_runs": 3,
-        "strikeouts": 4
+        "strikeouts": 6
+    },
+    {
+        "full_name": "Evan Sisk",
+        "team_side": "home",
+        "innings_pitched": "1.0",
+        "runs": 1,
+        "earned_runs": 1,
+        "strikeouts": 1
+    },
+    {
+        "full_name": "Carmen Mlodzinski",
+        "team_side": "home",
+        "innings_pitched": "3.0",
+        "runs": 0,
+        "earned_runs": 0,
+        "strikeouts": 5
+    },
+    {
+        "full_name": "Justin Lawrence",
+        "team_side": "home",
+        "innings_pitched": "1.1",
+        "runs": 0,
+        "earned_runs": 0,
+        "strikeouts": 1
     }
 ]

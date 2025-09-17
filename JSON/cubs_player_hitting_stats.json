@@ -2,9 +2,33 @@
     {
         "full_name": "Ian Happ",
         "team_side": "away",
-        "at_bats": 4,
-        "hits": 1,
+        "at_bats": 2,
+        "hits": 0,
         "doubles": 0,
+        "triples": 0,
+        "home_runs": 0,
+        "runs_batted_in": 1,
+        "walks": 2,
+        "strikeouts": 1
+    },
+    {
+        "full_name": "Michael Busch",
+        "team_side": "away",
+        "at_bats": 4,
+        "hits": 3,
+        "doubles": 2,
+        "triples": 0,
+        "home_runs": 1,
+        "runs_batted_in": 1,
+        "walks": 1,
+        "strikeouts": 0
+    },
+    {
+        "full_name": "Carson Kelly",
+        "team_side": "away",
+        "at_bats": 5,
+        "hits": 2,
+        "doubles": 1,
         "triples": 0,
         "home_runs": 0,
         "runs_batted_in": 0,
@@ -12,22 +36,58 @@
         "strikeouts": 1
     },
     {
-        "full_name": "Michael Busch",
-        "team_side": "away",
-        "at_bats": 5,
-        "hits": 1,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 1,
-        "runs_batted_in": 1,
-        "walks": 0,
-        "strikeouts": 1
-    },
-    {
-        "full_name": "Carson Kelly",
+        "full_name": "Pete Crow-Armstrong",
         "team_side": "away",
         "at_bats": 4,
         "hits": 1,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 0,
+        "runs_batted_in": 2,
+        "walks": 0,
+        "strikeouts": 3
+    },
+    {
+        "full_name": "Mois\u00e9s Ballesteros",
+        "team_side": "away",
+        "at_bats": 4,
+        "hits": 2,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 0,
+        "runs_batted_in": 0,
+        "walks": 1,
+        "strikeouts": 2
+    },
+    {
+        "full_name": "Willi Castro",
+        "team_side": "away",
+        "at_bats": 5,
+        "hits": 0,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 0,
+        "runs_batted_in": 0,
+        "walks": 0,
+        "strikeouts": 3
+    },
+    {
+        "full_name": "Dansby Swanson",
+        "team_side": "away",
+        "at_bats": 4,
+        "hits": 2,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 0,
+        "runs_batted_in": 0,
+        "walks": 1,
+        "strikeouts": 1
+    },
+    {
+        "full_name": "Nico Hoerner",
+        "team_side": "away",
+        "at_bats": 5,
+        "hits": 3,
         "doubles": 0,
         "triples": 0,
         "home_runs": 0,
@@ -36,22 +96,10 @@
         "strikeouts": 0
     },
     {
-        "full_name": "Pete Crow-Armstrong",
+        "full_name": "Matt Shaw",
         "team_side": "away",
         "at_bats": 4,
-        "hits": 2,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 1,
-        "runs_batted_in": 1,
-        "walks": 0,
-        "strikeouts": 1
-    },
-    {
-        "full_name": "Mois\u00e9s Ballesteros",
-        "team_side": "away",
-        "at_bats": 4,
-        "hits": 0,
+        "hits": 1,
         "doubles": 0,
         "triples": 0,
         "home_runs": 0,
@@ -60,52 +108,16 @@
         "strikeouts": 2
     },
     {
-        "full_name": "Willi Castro",
-        "team_side": "away",
+        "full_name": "Alexander Canario",
+        "team_side": "home",
         "at_bats": 3,
-        "hits": 0,
+        "hits": 1,
         "doubles": 0,
         "triples": 0,
         "home_runs": 0,
         "runs_batted_in": 0,
-        "walks": 1,
-        "strikeouts": 1
-    },
-    {
-        "full_name": "Dansby Swanson",
-        "team_side": "away",
-        "at_bats": 4,
-        "hits": 2,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 0,
-        "runs_batted_in": 1,
         "walks": 0,
-        "strikeouts": 0
-    },
-    {
-        "full_name": "Nico Hoerner",
-        "team_side": "away",
-        "at_bats": 4,
-        "hits": 1,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 0,
-        "runs_batted_in": 0,
-        "walks": 1,
-        "strikeouts": 0
-    },
-    {
-        "full_name": "Matt Shaw",
-        "team_side": "away",
-        "at_bats": 3,
-        "hits": 1,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 0,
-        "runs_batted_in": 0,
-        "walks": 1,
-        "strikeouts": 0
+        "strikeouts": 1
     },
     {
         "full_name": "Nick Yorke",
@@ -116,26 +128,14 @@
         "triples": 0,
         "home_runs": 0,
         "runs_batted_in": 0,
-        "walks": 1,
-        "strikeouts": 1
-    },
-    {
-        "full_name": "Spencer Horwitz",
-        "team_side": "home",
-        "at_bats": 4,
-        "hits": 1,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 0,
-        "runs_batted_in": 0,
         "walks": 0,
         "strikeouts": 0
     },
     {
-        "full_name": "Joey Bart",
+        "full_name": "Spencer Horwitz",
         "team_side": "home",
-        "at_bats": 2,
-        "hits": 0,
+        "at_bats": 3,
+        "hits": 1,
         "doubles": 0,
         "triples": 0,
         "home_runs": 0,
@@ -146,26 +146,26 @@
     {
         "full_name": "Bryan Reynolds",
         "team_side": "home",
-        "at_bats": 2,
-        "hits": 1,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 0,
-        "runs_batted_in": 0,
-        "walks": 1,
-        "strikeouts": 0
-    },
-    {
-        "full_name": "Oneil Cruz",
-        "team_side": "home",
-        "at_bats": 1,
+        "at_bats": 4,
         "hits": 0,
         "doubles": 0,
         "triples": 0,
         "home_runs": 0,
         "runs_batted_in": 0,
         "walks": 0,
-        "strikeouts": 0
+        "strikeouts": 2
+    },
+    {
+        "full_name": "Oneil Cruz",
+        "team_side": "home",
+        "at_bats": 4,
+        "hits": 1,
+        "doubles": 0,
+        "triples": 1,
+        "home_runs": 0,
+        "runs_batted_in": 1,
+        "walks": 0,
+        "strikeouts": 3
     },
     {
         "full_name": "Jared Triolo",
@@ -176,31 +176,19 @@
         "triples": 0,
         "home_runs": 0,
         "runs_batted_in": 0,
-        "walks": 1,
-        "strikeouts": 1
+        "walks": 0,
+        "strikeouts": 2
     },
     {
-        "full_name": "Tommy Pham",
+        "full_name": "Henry Davis",
         "team_side": "home",
-        "at_bats": 4,
-        "hits": 0,
+        "at_bats": 3,
+        "hits": 1,
         "doubles": 0,
         "triples": 0,
         "home_runs": 0,
         "runs_batted_in": 0,
         "walks": 0,
-        "strikeouts": 1
-    },
-    {
-        "full_name": "Andrew McCutchen",
-        "team_side": "home",
-        "at_bats": 3,
-        "hits": 0,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 0,
-        "runs_batted_in": 0,
-        "walks": 1,
         "strikeouts": 0
     },
     {
@@ -212,19 +200,19 @@
         "triples": 0,
         "home_runs": 0,
         "runs_batted_in": 0,
-        "walks": 1,
+        "walks": 0,
         "strikeouts": 2
     },
     {
         "full_name": "Nick Gonzales",
         "team_side": "home",
         "at_bats": 4,
-        "hits": 1,
+        "hits": 0,
         "doubles": 0,
         "triples": 0,
         "home_runs": 0,
         "runs_batted_in": 0,
         "walks": 0,
-        "strikeouts": 1
+        "strikeouts": 2
     }
 ]
