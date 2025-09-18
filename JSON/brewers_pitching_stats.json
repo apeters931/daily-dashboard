@@ -1,38 +1,38 @@
 [
     {
-        "full_name": "Chase Silseth",
+        "full_name": "Connor Brogdon",
+        "team_side": "away",
+        "innings_pitched": "2.2",
+        "runs": 2,
+        "earned_runs": 2,
+        "strikeouts": 3
+    },
+    {
+        "full_name": "Jos\u00e9 Soriano",
         "team_side": "away",
         "innings_pitched": "1.1",
+        "runs": 3,
+        "earned_runs": 3,
+        "strikeouts": 0
+    },
+    {
+        "full_name": "Jos\u00e9 Ure\u00f1a",
+        "team_side": "away",
+        "innings_pitched": "3.0",
+        "runs": 4,
+        "earned_runs": 3,
+        "strikeouts": 3
+    },
+    {
+        "full_name": "Robert Stephenson",
+        "team_side": "away",
+        "innings_pitched": "1.0",
         "runs": 0,
         "earned_runs": 0,
         "strikeouts": 2
     },
     {
-        "full_name": "Jos\u00e9 Fermin",
-        "team_side": "away",
-        "innings_pitched": "1.0",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 1
-    },
-    {
-        "full_name": "Caden Dana",
-        "team_side": "away",
-        "innings_pitched": "3.2",
-        "runs": 5,
-        "earned_runs": 5,
-        "strikeouts": 4
-    },
-    {
-        "full_name": "Sammy Peralta",
-        "team_side": "away",
-        "innings_pitched": "2.0",
-        "runs": 4,
-        "earned_runs": 4,
-        "strikeouts": 0
-    },
-    {
-        "full_name": "Chad Patrick",
+        "full_name": "Abner Uribe",
         "team_side": "home",
         "innings_pitched": "1.0",
         "runs": 0,
@@ -40,27 +40,27 @@
         "strikeouts": 3
     },
     {
-        "full_name": "Grant Anderson",
+        "full_name": "Nick Mears",
         "team_side": "home",
         "innings_pitched": "1.0",
         "runs": 1,
         "earned_runs": 1,
-        "strikeouts": 1
-    },
-    {
-        "full_name": "Joel Payamps",
-        "team_side": "home",
-        "innings_pitched": "1.0",
-        "runs": 0,
-        "earned_runs": 0,
         "strikeouts": 0
     },
     {
-        "full_name": "Freddy Peralta",
+        "full_name": "Erick Fedde",
         "team_side": "home",
-        "innings_pitched": "6.0",
+        "innings_pitched": "2.0",
+        "runs": 0,
+        "earned_runs": 0,
+        "strikeouts": 2
+    },
+    {
+        "full_name": "Brandon Woodruff",
+        "team_side": "home",
+        "innings_pitched": "5.0",
         "runs": 1,
         "earned_runs": 1,
-        "strikeouts": 10
+        "strikeouts": 9
     }
 ]

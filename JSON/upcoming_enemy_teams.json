@@ -1,16 +1,16 @@
 [
     {
         "away_team":"Chicago Cubs",
-        "home_team":"Pittsburgh Pirates",
-        "away_pitcher":"Matthew Boyd",
-        "away_wins":13,
-        "away_losses":8,
-        "away_era":"3.05",
-        "home_pitcher":"Johan Oviedo",
-        "home_wins":2,
-        "home_losses":0,
-        "home_era":"2.81",
-        "game_time_ct":"2025-09-17 11:35 AM",
-        "networks":"Marquee Sports Network, 670 The Score, SportsNet-PIT, MLBN (out-of-market only), 100.1 FM\/KDKA-AM 1020, MLBN (out-of-market only), WRTO 1200"
+        "home_team":"Cincinnati Reds",
+        "away_pitcher":"TBD",
+        "away_wins":null,
+        "away_losses":null,
+        "away_era":null,
+        "home_pitcher":"Hunter Greene",
+        "home_wins":6,
+        "home_losses":4,
+        "home_era":"3.01",
+        "game_time_ct":"2025-09-18 06:15 PM",
+        "networks":"FOX, FOX, 670 The Score, WLW 700, WRTO 1200"
     }
 ]
