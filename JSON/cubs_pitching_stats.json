@@ -1,14 +1,6 @@
 [
     {
-        "full_name": "Porter Hodge",
-        "team_side": "away",
-        "innings_pitched": "1.0",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 2
-    },
-    {
-        "full_name": "Drew Pomeranz",
+        "full_name": "Michael Soroka",
         "team_side": "away",
         "innings_pitched": "1.0",
         "runs": 0,
@@ -16,75 +8,19 @@
         "strikeouts": 1
     },
     {
-        "full_name": "Aaron Civale",
+        "full_name": "Colin Rea",
         "team_side": "away",
-        "innings_pitched": "3.0",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 3
-    },
-    {
-        "full_name": "Matthew Boyd",
-        "team_side": "away",
-        "innings_pitched": "3.0",
-        "runs": 4,
-        "earned_runs": 4,
-        "strikeouts": 5
-    },
-    {
-        "full_name": "Taylor Rogers",
-        "team_side": "away",
-        "innings_pitched": "1.0",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 0
-    },
-    {
-        "full_name": "Evan Sisk",
-        "team_side": "home",
-        "innings_pitched": "0.1",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 0
-    },
-    {
-        "full_name": "Yohan Ram\u00edrez",
-        "team_side": "home",
-        "innings_pitched": "0.2",
-        "runs": 3,
-        "earned_runs": 0,
-        "strikeouts": 0
-    },
-    {
-        "full_name": "Dauri Moreta",
-        "team_side": "home",
-        "innings_pitched": "1.1",
+        "innings_pitched": "7.0",
         "runs": 1,
         "earned_runs": 1,
-        "strikeouts": 1
+        "strikeouts": 11
     },
     {
-        "full_name": "Kyle Nicolas",
+        "full_name": "Hunter Greene",
         "team_side": "home",
-        "innings_pitched": "0.2",
+        "innings_pitched": "9.0",
         "runs": 0,
         "earned_runs": 0,
-        "strikeouts": 1
-    },
-    {
-        "full_name": "Johan Oviedo",
-        "team_side": "home",
-        "innings_pitched": "5.0",
-        "runs": 4,
-        "earned_runs": 4,
-        "strikeouts": 3
-    },
-    {
-        "full_name": "Dennis Santana",
-        "team_side": "home",
-        "innings_pitched": "1.0",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 1
+        "strikeouts": 9
     }
 ]

@@ -1,16 +1,16 @@
 [
     {
-        "away_team":"Los Angeles Angels",
-        "home_team":"Milwaukee Brewers",
-        "away_pitcher":"Yusei Kikuchi",
-        "away_wins":6,
-        "away_losses":11,
-        "away_era":"4.08",
-        "home_pitcher":"Quinn Priester",
+        "away_team":"Milwaukee Brewers",
+        "home_team":"St. Louis Cardinals",
+        "away_pitcher":"Jacob Misiorowski",
+        "away_wins":5,
+        "away_losses":2,
+        "away_era":"4.35",
+        "home_pitcher":"Sonny Gray",
         "home_wins":13,
-        "home_losses":2,
-        "home_era":"3.25",
-        "game_time_ct":"2025-09-18 06:40 PM",
-        "networks":"FanDuel Sports Network Wisconsin, KLAA 830, FanDuel Sports Network West, WTMJ 620"
+        "home_losses":8,
+        "home_era":"4.43",
+        "game_time_ct":"2025-09-19 07:15 PM",
+        "networks":"KMOX 1120 AM\/104.1 FM, FanDuel Sports Network Wisconsin, FanDuel Sports Network Midwest, WTMJ 620, WIJR AM 880 (En Espanol)"
     }
 ]

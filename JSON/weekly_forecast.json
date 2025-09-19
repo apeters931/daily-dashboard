@@ -2,116 +2,116 @@
   "location": "Madison",
   "full_forecast": [
     {
-      "date": "2025-09-18",
-      "max_temp_f": 85.1,
-      "min_temp_f": 59.2,
-      "avg_temp_f": 70.2,
-      "condition": "Sunny",
-      "chance_of_rain_percent": 0
-    },
-    {
       "date": "2025-09-19",
-      "max_temp_f": 69.8,
-      "min_temp_f": 59.9,
-      "avg_temp_f": 64.0,
-      "condition": "Moderate rain",
-      "chance_of_rain_percent": 89
+      "max_temp_f": 71.8,
+      "min_temp_f": 63.9,
+      "avg_temp_f": 67.1,
+      "condition": "Patchy rain nearby",
+      "chance_of_rain_percent": 80
     },
     {
       "date": "2025-09-20",
-      "max_temp_f": 74.7,
-      "min_temp_f": 64.4,
+      "max_temp_f": 75.7,
+      "min_temp_f": 61.0,
       "avg_temp_f": 68.3,
-      "condition": "Heavy rain",
-      "chance_of_rain_percent": 89
+      "condition": "Moderate rain",
+      "chance_of_rain_percent": 88
     },
     {
       "date": "2025-09-21",
-      "max_temp_f": 72.0,
-      "min_temp_f": 60.3,
-      "avg_temp_f": 64.7,
+      "max_temp_f": 71.6,
+      "min_temp_f": 63.3,
+      "avg_temp_f": 66.2,
       "condition": "Moderate rain",
-      "chance_of_rain_percent": 89
+      "chance_of_rain_percent": 78
     },
     {
       "date": "2025-09-22",
-      "max_temp_f": 71.1,
-      "min_temp_f": 62.7,
-      "avg_temp_f": 65.4,
+      "max_temp_f": 78.2,
+      "min_temp_f": 58.0,
+      "avg_temp_f": 66.6,
       "condition": "Patchy rain nearby",
-      "chance_of_rain_percent": 89
+      "chance_of_rain_percent": 73
     },
     {
       "date": "2025-09-23",
-      "max_temp_f": 70.0,
-      "min_temp_f": 59.1,
-      "avg_temp_f": 64.9,
+      "max_temp_f": 78.8,
+      "min_temp_f": 61.4,
+      "avg_temp_f": 67.4,
+      "condition": "Patchy rain nearby",
+      "chance_of_rain_percent": 80
+    },
+    {
+      "date": "2025-09-24",
+      "max_temp_f": 69.0,
+      "min_temp_f": 63.0,
+      "avg_temp_f": 66.1,
       "condition": "Patchy rain nearby",
       "chance_of_rain_percent": 89
     },
     {
-      "date": "2025-09-24",
-      "max_temp_f": 69.5,
-      "min_temp_f": 56.2,
-      "avg_temp_f": 63.0,
-      "condition": "Patchy rain nearby",
-      "chance_of_rain_percent": 79
-    },
-    {
       "date": "2025-09-25",
-      "max_temp_f": 67.9,
-      "min_temp_f": 56.8,
-      "avg_temp_f": 62.2,
+      "max_temp_f": 68.1,
+      "min_temp_f": 56.9,
+      "avg_temp_f": 62.9,
       "condition": "Patchy rain nearby",
-      "chance_of_rain_percent": 81
+      "chance_of_rain_percent": 74
     },
     {
       "date": "2025-09-26",
-      "max_temp_f": 69.4,
-      "min_temp_f": 54.4,
-      "avg_temp_f": 61.6,
-      "condition": "Patchy rain nearby",
-      "chance_of_rain_percent": 68
+      "max_temp_f": 72.7,
+      "min_temp_f": 55.8,
+      "avg_temp_f": 63.5,
+      "condition": "Cloudy ",
+      "chance_of_rain_percent": 0
     },
     {
       "date": "2025-09-27",
-      "max_temp_f": 68.6,
-      "min_temp_f": 53.7,
-      "avg_temp_f": 61.1,
-      "condition": "Fog",
+      "max_temp_f": 77.3,
+      "min_temp_f": 56.5,
+      "avg_temp_f": 66.4,
+      "condition": "Partly Cloudy ",
       "chance_of_rain_percent": 0
     },
     {
       "date": "2025-09-28",
-      "max_temp_f": 68.2,
-      "min_temp_f": 54.6,
-      "avg_temp_f": 61.4,
-      "condition": "Fog",
+      "max_temp_f": 75.7,
+      "min_temp_f": 55.1,
+      "avg_temp_f": 65.4,
+      "condition": "Partly Cloudy ",
       "chance_of_rain_percent": 0
     },
     {
       "date": "2025-09-29",
-      "max_temp_f": 66.1,
-      "min_temp_f": 61.6,
-      "avg_temp_f": 63.3,
-      "condition": "Patchy rain nearby",
-      "chance_of_rain_percent": 85
+      "max_temp_f": 78.1,
+      "min_temp_f": 56.9,
+      "avg_temp_f": 66.7,
+      "condition": "Sunny",
+      "chance_of_rain_percent": 0
     },
     {
       "date": "2025-09-30",
-      "max_temp_f": 70.3,
-      "min_temp_f": 60.2,
-      "avg_temp_f": 63.6,
-      "condition": "Patchy rain nearby",
-      "chance_of_rain_percent": 77
+      "max_temp_f": 65.9,
+      "min_temp_f": 46.1,
+      "avg_temp_f": 56.1,
+      "condition": "Partly Cloudy ",
+      "chance_of_rain_percent": 0
     },
     {
       "date": "2025-10-01",
-      "max_temp_f": 68.5,
-      "min_temp_f": 57.4,
-      "avg_temp_f": 61.7,
-      "condition": "Moderate rain",
-      "chance_of_rain_percent": 82
+      "max_temp_f": 55.7,
+      "min_temp_f": 51.0,
+      "avg_temp_f": 53.0,
+      "condition": "Partly Cloudy ",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "date": "2025-10-02",
+      "max_temp_f": 74.3,
+      "min_temp_f": 54.7,
+      "avg_temp_f": 61.3,
+      "condition": "Partly Cloudy ",
+      "chance_of_rain_percent": 0
     }
   ]
 }

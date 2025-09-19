@@ -1,18 +1,18 @@
 {
     "game_summary": {
         "away_team": "Chicago Cubs",
-        "home_team": "Pittsburgh Pirates"
+        "home_team": "Cincinnati Reds"
     },
     "inning_scores": [
         {
             "inning": 1,
-            "away_runs": 4,
-            "home_runs": 3
+            "away_runs": 0,
+            "home_runs": 0
         },
         {
             "inning": 2,
             "away_runs": 0,
-            "home_runs": 1
+            "home_runs": 0
         },
         {
             "inning": 3,
@@ -22,7 +22,7 @@
         {
             "inning": 4,
             "away_runs": 0,
-            "home_runs": 0
+            "home_runs": 1
         },
         {
             "inning": 5,
@@ -31,7 +31,7 @@
         },
         {
             "inning": 6,
-            "away_runs": 3,
+            "away_runs": 0,
             "home_runs": 0
         },
         {
@@ -41,7 +41,7 @@
         },
         {
             "inning": 8,
-            "away_runs": 1,
+            "away_runs": 0,
             "home_runs": 0
         },
         {
@@ -51,11 +51,11 @@
         }
     ],
     "final_score": {
-        "away_runs": 8,
-        "home_runs": 4,
-        "away_hits": 10,
-        "home_hits": 10,
-        "away_errors": 1,
-        "home_errors": 3
+        "away_runs": 0,
+        "home_runs": 1,
+        "away_hits": 1,
+        "home_hits": 4,
+        "away_errors": 0,
+        "home_errors": 1
     }
 }

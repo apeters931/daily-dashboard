@@ -2,15 +2,15 @@
     {
         "away_team":"Chicago Cubs",
         "home_team":"Cincinnati Reds",
-        "away_pitcher":"TBD",
-        "away_wins":null,
-        "away_losses":null,
-        "away_era":null,
-        "home_pitcher":"Hunter Greene",
-        "home_wins":6,
-        "home_losses":4,
-        "home_era":"3.01",
-        "game_time_ct":"2025-09-18 06:15 PM",
-        "networks":"FOX, FOX, 670 The Score, WLW 700, WRTO 1200"
+        "away_pitcher":"Shota Imanaga",
+        "away_wins":9,
+        "away_losses":7,
+        "away_era":"3.29",
+        "home_pitcher":"Nick Lodolo",
+        "home_wins":8,
+        "home_losses":8,
+        "home_era":"3.30",
+        "game_time_ct":"2025-09-19 05:40 PM",
+        "networks":"FanDuel Sports Network Ohio, 670 The Score, Marquee Sports Network, MLBN (out-of-market only), WLW 700, MLBN (out-of-market only), WRTO 1200"
     }
 ]

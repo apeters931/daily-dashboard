@@ -12,7 +12,7 @@
         {
             "inning": 2,
             "away_runs": 0,
-            "home_runs": 5
+            "home_runs": 0
         },
         {
             "inning": 3,
@@ -21,28 +21,28 @@
         },
         {
             "inning": 4,
-            "away_runs": 1,
-            "home_runs": 0
+            "away_runs": 0,
+            "home_runs": 1
         },
         {
             "inning": 5,
-            "away_runs": 0,
+            "away_runs": 2,
             "home_runs": 0
         },
         {
             "inning": 6,
-            "away_runs": 1,
+            "away_runs": 0,
             "home_runs": 1
         },
         {
             "inning": 7,
             "away_runs": 0,
-            "home_runs": 0
+            "home_runs": 3
         },
         {
             "inning": 8,
             "away_runs": 0,
-            "home_runs": 3
+            "home_runs": 0
         },
         {
             "inning": 9,
@@ -52,10 +52,10 @@
     ],
     "final_score": {
         "away_runs": 2,
-        "home_runs": 9,
-        "away_hits": 4,
-        "home_hits": 6,
-        "away_errors": 1,
+        "home_runs": 5,
+        "away_hits": 7,
+        "home_hits": 9,
+        "away_errors": 0,
         "home_errors": 1
     }
 }
