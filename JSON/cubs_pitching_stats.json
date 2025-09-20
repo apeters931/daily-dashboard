@@ -1,26 +1,66 @@
 [
     {
-        "full_name": "Michael Soroka",
+        "full_name": "Porter Hodge",
         "team_side": "away",
+        "innings_pitched": "1.0",
+        "runs": 3,
+        "earned_runs": 3,
+        "strikeouts": 2
+    },
+    {
+        "full_name": "Shota Imanaga",
+        "team_side": "away",
+        "innings_pitched": "5.0",
+        "runs": 4,
+        "earned_runs": 3,
+        "strikeouts": 4
+    },
+    {
+        "full_name": "Taylor Rogers",
+        "team_side": "away",
+        "innings_pitched": "2.0",
+        "runs": 0,
+        "earned_runs": 0,
+        "strikeouts": 0
+    },
+    {
+        "full_name": "Emilio Pag\u00e1n",
+        "team_side": "home",
+        "innings_pitched": "1.0",
+        "runs": 0,
+        "earned_runs": 0,
+        "strikeouts": 0
+    },
+    {
+        "full_name": "Tony Santillan",
+        "team_side": "home",
         "innings_pitched": "1.0",
         "runs": 0,
         "earned_runs": 0,
         "strikeouts": 1
     },
     {
-        "full_name": "Colin Rea",
-        "team_side": "away",
-        "innings_pitched": "7.0",
-        "runs": 1,
-        "earned_runs": 1,
-        "strikeouts": 11
-    },
-    {
-        "full_name": "Hunter Greene",
+        "full_name": "Nick Martinez",
         "team_side": "home",
-        "innings_pitched": "9.0",
+        "innings_pitched": "1.0",
         "runs": 0,
         "earned_runs": 0,
-        "strikeouts": 9
+        "strikeouts": 0
+    },
+    {
+        "full_name": "Connor Phillips",
+        "team_side": "home",
+        "innings_pitched": "1.1",
+        "runs": 0,
+        "earned_runs": 0,
+        "strikeouts": 2
+    },
+    {
+        "full_name": "Nick Lodolo",
+        "team_side": "home",
+        "innings_pitched": "4.2",
+        "runs": 4,
+        "earned_runs": 4,
+        "strikeouts": 7
     }
 ]

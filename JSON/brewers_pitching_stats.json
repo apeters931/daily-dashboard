@@ -1,38 +1,46 @@
 [
     {
-        "full_name": "Kenley Jansen",
-        "team_side": "away",
-        "innings_pitched": "1.0",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 0
-    },
-    {
-        "full_name": "Jos\u00e9 Fermin",
+        "full_name": "Rob Zastryzny",
         "team_side": "away",
         "innings_pitched": "0.1",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 0
-    },
-    {
-        "full_name": "Yusei Kikuchi",
-        "team_side": "away",
-        "innings_pitched": "5.2",
-        "runs": 2,
-        "earned_runs": 2,
-        "strikeouts": 2
-    },
-    {
-        "full_name": "Luis Garc\u00eda",
-        "team_side": "away",
-        "innings_pitched": "1.0",
         "runs": 3,
         "earned_runs": 3,
         "strikeouts": 0
     },
     {
-        "full_name": "Abner Uribe",
+        "full_name": "Tobias Myers",
+        "team_side": "away",
+        "innings_pitched": "2.0",
+        "runs": 0,
+        "earned_runs": 0,
+        "strikeouts": 1
+    },
+    {
+        "full_name": "Grant Anderson",
+        "team_side": "away",
+        "innings_pitched": "0.2",
+        "runs": 2,
+        "earned_runs": 2,
+        "strikeouts": 1
+    },
+    {
+        "full_name": "Joel Payamps",
+        "team_side": "away",
+        "innings_pitched": "1.1",
+        "runs": 0,
+        "earned_runs": 0,
+        "strikeouts": 1
+    },
+    {
+        "full_name": "Jacob Misiorowski",
+        "team_side": "away",
+        "innings_pitched": "3.2",
+        "runs": 2,
+        "earned_runs": 2,
+        "strikeouts": 3
+    },
+    {
+        "full_name": "Ryan Fernandez",
         "team_side": "home",
         "innings_pitched": "1.0",
         "runs": 0,
@@ -40,27 +48,19 @@
         "strikeouts": 2
     },
     {
-        "full_name": "Quinn Priester",
+        "full_name": "Gordon Graceffo",
         "team_side": "home",
-        "innings_pitched": "5.2",
-        "runs": 2,
-        "earned_runs": 2,
-        "strikeouts": 10
-    },
-    {
-        "full_name": "Aaron Ashby",
-        "team_side": "home",
-        "innings_pitched": "1.1",
+        "innings_pitched": "2.0",
         "runs": 0,
         "earned_runs": 0,
-        "strikeouts": 3
+        "strikeouts": 2
     },
     {
-        "full_name": "Jared Koenig",
+        "full_name": "Sonny Gray",
         "team_side": "home",
-        "innings_pitched": "1.0",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 1
+        "innings_pitched": "6.0",
+        "runs": 1,
+        "earned_runs": 1,
+        "strikeouts": 7
     }
 ]
