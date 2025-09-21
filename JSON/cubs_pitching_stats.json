@@ -1,27 +1,35 @@
 [
     {
-        "full_name": "Porter Hodge",
+        "full_name": "Javier Assad",
         "team_side": "away",
-        "innings_pitched": "1.0",
-        "runs": 3,
-        "earned_runs": 3,
+        "innings_pitched": "4.0",
+        "runs": 2,
+        "earned_runs": 2,
         "strikeouts": 2
     },
     {
-        "full_name": "Shota Imanaga",
+        "full_name": "Drew Pomeranz",
         "team_side": "away",
-        "innings_pitched": "5.0",
-        "runs": 4,
-        "earned_runs": 3,
-        "strikeouts": 4
+        "innings_pitched": "1.0",
+        "runs": 1,
+        "earned_runs": 1,
+        "strikeouts": 2
     },
     {
-        "full_name": "Taylor Rogers",
+        "full_name": "Aaron Civale",
         "team_side": "away",
         "innings_pitched": "2.0",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 0
+        "runs": 1,
+        "earned_runs": 1,
+        "strikeouts": 3
+    },
+    {
+        "full_name": "Andrew Kittredge",
+        "team_side": "away",
+        "innings_pitched": "1.0",
+        "runs": 2,
+        "earned_runs": 2,
+        "strikeouts": 2
     },
     {
         "full_name": "Emilio Pag\u00e1n",
@@ -29,18 +37,18 @@
         "innings_pitched": "1.0",
         "runs": 0,
         "earned_runs": 0,
-        "strikeouts": 0
+        "strikeouts": 1
     },
     {
         "full_name": "Tony Santillan",
         "team_side": "home",
-        "innings_pitched": "1.0",
+        "innings_pitched": "0.2",
         "runs": 0,
         "earned_runs": 0,
         "strikeouts": 1
     },
     {
-        "full_name": "Nick Martinez",
+        "full_name": "Graham Ashcraft",
         "team_side": "home",
         "innings_pitched": "1.0",
         "runs": 0,
@@ -48,19 +56,19 @@
         "strikeouts": 0
     },
     {
-        "full_name": "Connor Phillips",
+        "full_name": "Zack Littell",
         "team_side": "home",
-        "innings_pitched": "1.1",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 2
+        "innings_pitched": "5.0",
+        "runs": 2,
+        "earned_runs": 2,
+        "strikeouts": 4
     },
     {
-        "full_name": "Nick Lodolo",
+        "full_name": "Chase Burns",
         "team_side": "home",
-        "innings_pitched": "4.2",
-        "runs": 4,
-        "earned_runs": 4,
-        "strikeouts": 7
+        "innings_pitched": "1.1",
+        "runs": 1,
+        "earned_runs": 1,
+        "strikeouts": 1
     }
 ]

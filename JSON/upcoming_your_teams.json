@@ -2,15 +2,15 @@
     {
         "away_team":"Milwaukee Brewers",
         "home_team":"St. Louis Cardinals",
-        "away_pitcher":"Chad Patrick",
-        "away_wins":3,
-        "away_losses":8,
-        "away_era":"3.64",
-        "home_pitcher":"Miles Mikolas",
-        "home_wins":8,
-        "home_losses":10,
-        "home_era":"4.80",
-        "game_time_ct":"2025-09-20 06:15 PM",
-        "networks":"FanDuel Sports Network Midwest, KMOX 1120 AM\/104.1 FM, FanDuel Sports Network Wisconsin, WTMJ 620, WIJR AM 880 (En Espanol)"
+        "away_pitcher":"TBD",
+        "away_wins":null,
+        "away_losses":null,
+        "away_era":null,
+        "home_pitcher":"Matthew Liberatore",
+        "home_wins":7,
+        "home_losses":12,
+        "home_era":"4.30",
+        "game_time_ct":"2025-09-21 01:15 PM",
+        "networks":"KMOX 1120 AM\/104.1 FM, FanDuel Sports Network Wisconsin, FanDuel Sports Network Midwest, WTMJ 620, WIJR AM 880 (En Espanol)"
     }
 ]

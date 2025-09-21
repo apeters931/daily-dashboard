@@ -2,15 +2,15 @@
     {
         "away_team":"Chicago Cubs",
         "home_team":"Cincinnati Reds",
-        "away_pitcher":"Javier Assad",
-        "away_wins":3,
-        "away_losses":1,
-        "away_era":"4.23",
-        "home_pitcher":"Zack Littell",
+        "away_pitcher":"Jameson Taillon",
+        "away_wins":10,
+        "away_losses":6,
+        "away_era":"3.93",
+        "home_pitcher":"Andrew Abbott",
         "home_wins":9,
-        "home_losses":8,
-        "home_era":"3.86",
-        "game_time_ct":"2025-09-20 05:40 PM",
-        "networks":"670 The Score, Marquee Sports Network, FanDuel Sports Network Ohio, WLW 700, WRTO 1200"
+        "home_losses":7,
+        "home_era":"2.88",
+        "game_time_ct":"2025-09-21 12:40 PM",
+        "networks":"Marquee Sports Network +, 670 The Score, FanDuel Sports Network Ohio, MLBN (out-of-market only), WLW 700, MLBN (out-of-market only), WRTO 1200"
     }
 ]
