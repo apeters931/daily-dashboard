@@ -1,39 +1,15 @@
 [
     {
-        "full_name": "Javier Assad",
+        "full_name": "Jameson Taillon",
         "team_side": "away",
-        "innings_pitched": "4.0",
-        "runs": 2,
-        "earned_runs": 2,
-        "strikeouts": 2
-    },
-    {
-        "full_name": "Drew Pomeranz",
-        "team_side": "away",
-        "innings_pitched": "1.0",
+        "innings_pitched": "7.0",
         "runs": 1,
         "earned_runs": 1,
-        "strikeouts": 2
+        "strikeouts": 4
     },
     {
-        "full_name": "Aaron Civale",
+        "full_name": "Brad Keller",
         "team_side": "away",
-        "innings_pitched": "2.0",
-        "runs": 1,
-        "earned_runs": 1,
-        "strikeouts": 3
-    },
-    {
-        "full_name": "Andrew Kittredge",
-        "team_side": "away",
-        "innings_pitched": "1.0",
-        "runs": 2,
-        "earned_runs": 2,
-        "strikeouts": 2
-    },
-    {
-        "full_name": "Emilio Pag\u00e1n",
-        "team_side": "home",
         "innings_pitched": "1.0",
         "runs": 0,
         "earned_runs": 0,
@@ -42,7 +18,15 @@
     {
         "full_name": "Tony Santillan",
         "team_side": "home",
-        "innings_pitched": "0.2",
+        "innings_pitched": "1.0",
+        "runs": 0,
+        "earned_runs": 0,
+        "strikeouts": 2
+    },
+    {
+        "full_name": "Nick Martinez",
+        "team_side": "home",
+        "innings_pitched": "2.1",
         "runs": 0,
         "earned_runs": 0,
         "strikeouts": 1
@@ -53,22 +37,14 @@
         "innings_pitched": "1.0",
         "runs": 0,
         "earned_runs": 0,
-        "strikeouts": 0
-    },
-    {
-        "full_name": "Zack Littell",
-        "team_side": "home",
-        "innings_pitched": "5.0",
-        "runs": 2,
-        "earned_runs": 2,
-        "strikeouts": 4
-    },
-    {
-        "full_name": "Chase Burns",
-        "team_side": "home",
-        "innings_pitched": "1.1",
-        "runs": 1,
-        "earned_runs": 1,
         "strikeouts": 1
+    },
+    {
+        "full_name": "Andrew Abbott",
+        "team_side": "home",
+        "innings_pitched": "4.2",
+        "runs": 0,
+        "earned_runs": 0,
+        "strikeouts": 2
     }
 ]

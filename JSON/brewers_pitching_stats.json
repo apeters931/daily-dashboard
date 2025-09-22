@@ -1,66 +1,66 @@
 [
     {
-        "full_name": "Chad Patrick",
+        "full_name": "Rob Zastryzny",
         "team_side": "away",
-        "innings_pitched": "4.1",
-        "runs": 2,
-        "earned_runs": 2,
-        "strikeouts": 3
+        "innings_pitched": "0.2",
+        "runs": 0,
+        "earned_runs": 0,
+        "strikeouts": 1
     },
     {
-        "full_name": "Abner Uribe",
+        "full_name": "Grant Anderson",
         "team_side": "away",
+        "innings_pitched": "0.1",
+        "runs": 0,
+        "earned_runs": 0,
+        "strikeouts": 0
+    },
+    {
+        "full_name": "Robert Gasser",
+        "team_side": "away",
+        "innings_pitched": "3.0",
+        "runs": 2,
+        "earned_runs": 2,
+        "strikeouts": 2
+    },
+    {
+        "full_name": "Erick Fedde",
+        "team_side": "away",
+        "innings_pitched": "4.0",
+        "runs": 3,
+        "earned_runs": 3,
+        "strikeouts": 1
+    },
+    {
+        "full_name": "Matt Svanson",
+        "team_side": "home",
+        "innings_pitched": "2.0",
+        "runs": 0,
+        "earned_runs": 0,
+        "strikeouts": 2
+    },
+    {
+        "full_name": "Ryan Fernandez",
+        "team_side": "home",
         "innings_pitched": "1.0",
         "runs": 0,
         "earned_runs": 0,
         "strikeouts": 2
     },
     {
-        "full_name": "Aaron Ashby",
-        "team_side": "away",
-        "innings_pitched": "2.2",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 1
-    },
-    {
-        "full_name": "Jared Koenig",
-        "team_side": "away",
-        "innings_pitched": "2.0",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 1
-    },
-    {
-        "full_name": "Kyle Leahy",
+        "full_name": "Riley O'Brien",
         "team_side": "home",
-        "innings_pitched": "2.0",
+        "innings_pitched": "1.0",
         "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 1
-    },
-    {
-        "full_name": "Miles Mikolas",
-        "team_side": "home",
-        "innings_pitched": "5.0",
-        "runs": 2,
-        "earned_runs": 2,
-        "strikeouts": 3
-    },
-    {
-        "full_name": "JoJo Romero",
-        "team_side": "home",
-        "innings_pitched": "1.2",
-        "runs": 1,
         "earned_runs": 0,
         "strikeouts": 0
     },
     {
-        "full_name": "Riley O'Brien",
+        "full_name": "Matthew Liberatore",
         "team_side": "home",
-        "innings_pitched": "1.1",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 1
+        "innings_pitched": "5.0",
+        "runs": 1,
+        "earned_runs": 1,
+        "strikeouts": 6
     }
 ]
