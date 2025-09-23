@@ -1,3 +1,16 @@
 [
-
+    {
+        "away_team":"New York Mets",
+        "home_team":"Chicago Cubs",
+        "away_pitcher":"David Peterson",
+        "away_wins":9,
+        "away_losses":6,
+        "away_era":"3.98",
+        "home_pitcher":"Cade Horton",
+        "home_wins":11,
+        "home_losses":4,
+        "home_era":"2.66",
+        "game_time_ct":"2025-09-23 06:40 PM",
+        "networks":"Marquee Sports Network, SNY, 670 The Score, Audacy Mets Radio WHSQ 880AM, TBS (out-of-market only), TBS (out-of-market only), WRTO 1200, Audacy App 92.3 HD2"
+    }
 ]

@@ -2,65 +2,113 @@
     {
         "full_name": "Rob Zastryzny",
         "team_side": "away",
-        "innings_pitched": "0.2",
+        "innings_pitched": "1.0",
+        "runs": 1,
+        "earned_runs": 0,
+        "strikeouts": 0
+    },
+    {
+        "full_name": "Abner Uribe",
+        "team_side": "away",
+        "innings_pitched": "1.0",
+        "runs": 0,
+        "earned_runs": 0,
+        "strikeouts": 0
+    },
+    {
+        "full_name": "Grant Anderson",
+        "team_side": "away",
+        "innings_pitched": "0.1",
+        "runs": 1,
+        "earned_runs": 0,
+        "strikeouts": 0
+    },
+    {
+        "full_name": "Aaron Ashby",
+        "team_side": "away",
+        "innings_pitched": "1.0",
+        "runs": 0,
+        "earned_runs": 0,
+        "strikeouts": 2
+    },
+    {
+        "full_name": "Freddy Peralta",
+        "team_side": "away",
+        "innings_pitched": "5.0",
+        "runs": 2,
+        "earned_runs": 2,
+        "strikeouts": 6
+    },
+    {
+        "full_name": "Nick Mears",
+        "team_side": "away",
+        "innings_pitched": "1.0",
+        "runs": 1,
+        "earned_runs": 1,
+        "strikeouts": 1
+    },
+    {
+        "full_name": "Jared Koenig",
+        "team_side": "away",
+        "innings_pitched": "1.0",
         "runs": 0,
         "earned_runs": 0,
         "strikeouts": 1
     },
     {
-        "full_name": "Grant Anderson",
-        "team_side": "away",
+        "full_name": "Robert Suarez",
+        "team_side": "home",
+        "innings_pitched": "1.0",
+        "runs": 0,
+        "earned_runs": 0,
+        "strikeouts": 2
+    },
+    {
+        "full_name": "Bradgley Rodriguez",
+        "team_side": "home",
+        "innings_pitched": "1.0",
+        "runs": 0,
+        "earned_runs": 0,
+        "strikeouts": 0
+    },
+    {
+        "full_name": "Jeremiah Estrada",
+        "team_side": "home",
+        "innings_pitched": "1.0",
+        "runs": 0,
+        "earned_runs": 0,
+        "strikeouts": 1
+    },
+    {
+        "full_name": "Adrian Morejon",
+        "team_side": "home",
+        "innings_pitched": "1.0",
+        "runs": 1,
+        "earned_runs": 0,
+        "strikeouts": 1
+    },
+    {
+        "full_name": "Nick Pivetta",
+        "team_side": "home",
+        "innings_pitched": "5.2",
+        "runs": 3,
+        "earned_runs": 3,
+        "strikeouts": 5
+    },
+    {
+        "full_name": "Kyle Hart",
+        "team_side": "home",
         "innings_pitched": "0.1",
         "runs": 0,
         "earned_runs": 0,
         "strikeouts": 0
     },
     {
-        "full_name": "Robert Gasser",
-        "team_side": "away",
-        "innings_pitched": "3.0",
-        "runs": 2,
-        "earned_runs": 2,
-        "strikeouts": 2
-    },
-    {
-        "full_name": "Erick Fedde",
-        "team_side": "away",
-        "innings_pitched": "4.0",
-        "runs": 3,
-        "earned_runs": 3,
-        "strikeouts": 1
-    },
-    {
-        "full_name": "Matt Svanson",
-        "team_side": "home",
-        "innings_pitched": "2.0",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 2
-    },
-    {
-        "full_name": "Ryan Fernandez",
+        "full_name": "Ron Marinaccio",
         "team_side": "home",
         "innings_pitched": "1.0",
         "runs": 0,
         "earned_runs": 0,
         "strikeouts": 2
-    },
-    {
-        "full_name": "Riley O'Brien",
-        "team_side": "home",
-        "innings_pitched": "1.0",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 0
-    },
-    {
-        "full_name": "Matthew Liberatore",
-        "team_side": "home",
-        "innings_pitched": "5.0",
-        "runs": 1,
-        "earned_runs": 1,
-        "strikeouts": 6
     }
 ]
