@@ -1,149 +1,149 @@
 {
   "location": "Madison",
-  "date": "2025-09-23",
+  "date": "2025-09-24",
   "hourly_weather": [
     {
-      "time": "2025-09-23 00:00",
-      "temperature_fahrenheit": 67.0,
+      "time": "2025-09-24 00:00",
+      "temperature_fahrenheit": 62.1,
       "condition": "Clear ",
       "chance_of_rain_percent": 0
     },
     {
-      "time": "2025-09-23 01:00",
-      "temperature_fahrenheit": 64.0,
+      "time": "2025-09-24 01:00",
+      "temperature_fahrenheit": 57.9,
       "condition": "Clear ",
       "chance_of_rain_percent": 0
     },
     {
-      "time": "2025-09-23 02:00",
-      "temperature_fahrenheit": 66.1,
+      "time": "2025-09-24 02:00",
+      "temperature_fahrenheit": 61.3,
       "condition": "Clear ",
       "chance_of_rain_percent": 0
     },
     {
-      "time": "2025-09-23 03:00",
-      "temperature_fahrenheit": 65.7,
+      "time": "2025-09-24 03:00",
+      "temperature_fahrenheit": 60.8,
       "condition": "Clear ",
       "chance_of_rain_percent": 0
     },
     {
-      "time": "2025-09-23 04:00",
-      "temperature_fahrenheit": 65.1,
+      "time": "2025-09-24 04:00",
+      "temperature_fahrenheit": 60.3,
       "condition": "Clear ",
       "chance_of_rain_percent": 0
     },
     {
-      "time": "2025-09-23 05:00",
-      "temperature_fahrenheit": 64.9,
+      "time": "2025-09-24 05:00",
+      "temperature_fahrenheit": 60.3,
       "condition": "Clear ",
       "chance_of_rain_percent": 0
     },
     {
-      "time": "2025-09-23 06:00",
+      "time": "2025-09-24 06:00",
+      "temperature_fahrenheit": 60.6,
+      "condition": "Overcast ",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-09-24 07:00",
+      "temperature_fahrenheit": 60.8,
+      "condition": "Overcast ",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-09-24 08:00",
+      "temperature_fahrenheit": 61.2,
+      "condition": "Overcast ",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-09-24 09:00",
+      "temperature_fahrenheit": 62.0,
+      "condition": "Overcast ",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-09-24 10:00",
+      "temperature_fahrenheit": 62.7,
+      "condition": "Overcast ",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-09-24 11:00",
+      "temperature_fahrenheit": 63.5,
+      "condition": "Overcast ",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-09-24 12:00",
+      "temperature_fahrenheit": 63.8,
+      "condition": "Overcast ",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-09-24 13:00",
+      "temperature_fahrenheit": 66.6,
+      "condition": "Overcast ",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-09-24 14:00",
+      "temperature_fahrenheit": 68.5,
+      "condition": "Sunny",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-09-24 15:00",
+      "temperature_fahrenheit": 69.2,
+      "condition": "Partly Cloudy ",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-09-24 16:00",
+      "temperature_fahrenheit": 69.4,
+      "condition": "Cloudy ",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-09-24 17:00",
+      "temperature_fahrenheit": 69.0,
+      "condition": "Sunny",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-09-24 18:00",
+      "temperature_fahrenheit": 67.1,
+      "condition": "Sunny",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-09-24 19:00",
       "temperature_fahrenheit": 64.6,
       "condition": "Clear ",
       "chance_of_rain_percent": 0
     },
     {
-      "time": "2025-09-23 07:00",
-      "temperature_fahrenheit": 64.9,
-      "condition": "Sunny",
+      "time": "2025-09-24 20:00",
+      "temperature_fahrenheit": 62.5,
+      "condition": "Clear ",
       "chance_of_rain_percent": 0
     },
     {
-      "time": "2025-09-23 08:00",
-      "temperature_fahrenheit": 65.6,
-      "condition": "Sunny",
-      "chance_of_rain_percent": 0
-    },
-    {
-      "time": "2025-09-23 09:00",
-      "temperature_fahrenheit": 67.2,
-      "condition": "Sunny",
-      "chance_of_rain_percent": 0
-    },
-    {
-      "time": "2025-09-23 10:00",
-      "temperature_fahrenheit": 69.3,
-      "condition": "Sunny",
-      "chance_of_rain_percent": 0
-    },
-    {
-      "time": "2025-09-23 11:00",
-      "temperature_fahrenheit": 70.8,
-      "condition": "Sunny",
-      "chance_of_rain_percent": 0
-    },
-    {
-      "time": "2025-09-23 12:00",
-      "temperature_fahrenheit": 72.0,
+      "time": "2025-09-24 21:00",
+      "temperature_fahrenheit": 61.5,
       "condition": "Partly Cloudy ",
       "chance_of_rain_percent": 0
     },
     {
-      "time": "2025-09-23 13:00",
-      "temperature_fahrenheit": 73.1,
-      "condition": "Sunny",
+      "time": "2025-09-24 22:00",
+      "temperature_fahrenheit": 61.1,
+      "condition": "Partly Cloudy ",
       "chance_of_rain_percent": 0
     },
     {
-      "time": "2025-09-23 14:00",
-      "temperature_fahrenheit": 73.9,
-      "condition": "Overcast ",
-      "chance_of_rain_percent": 0
-    },
-    {
-      "time": "2025-09-23 15:00",
-      "temperature_fahrenheit": 74.3,
-      "condition": "Overcast ",
-      "chance_of_rain_percent": 0
-    },
-    {
-      "time": "2025-09-23 16:00",
-      "temperature_fahrenheit": 73.6,
+      "time": "2025-09-24 23:00",
+      "temperature_fahrenheit": 60.7,
       "condition": "Cloudy ",
-      "chance_of_rain_percent": 0
-    },
-    {
-      "time": "2025-09-23 17:00",
-      "temperature_fahrenheit": 71.6,
-      "condition": "Thundery outbreaks in nearby",
-      "chance_of_rain_percent": 0
-    },
-    {
-      "time": "2025-09-23 18:00",
-      "temperature_fahrenheit": 69.3,
-      "condition": "Overcast ",
-      "chance_of_rain_percent": 0
-    },
-    {
-      "time": "2025-09-23 19:00",
-      "temperature_fahrenheit": 67.4,
-      "condition": "Cloudy ",
-      "chance_of_rain_percent": 0
-    },
-    {
-      "time": "2025-09-23 20:00",
-      "temperature_fahrenheit": 65.8,
-      "condition": "Overcast ",
-      "chance_of_rain_percent": 0
-    },
-    {
-      "time": "2025-09-23 21:00",
-      "temperature_fahrenheit": 64.7,
-      "condition": "Overcast ",
-      "chance_of_rain_percent": 0
-    },
-    {
-      "time": "2025-09-23 22:00",
-      "temperature_fahrenheit": 64.0,
-      "condition": "Overcast ",
-      "chance_of_rain_percent": 0
-    },
-    {
-      "time": "2025-09-23 23:00",
-      "temperature_fahrenheit": 63.4,
-      "condition": "Overcast ",
       "chance_of_rain_percent": 0
     }
   ]
