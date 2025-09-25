@@ -1,114 +1,66 @@
 [
     {
-        "full_name": "Huascar Brazob\u00e1n",
+        "full_name": "Sean Manaea",
         "team_side": "away",
-        "innings_pitched": "2.2",
-        "runs": 1,
-        "earned_runs": 0,
-        "strikeouts": 2
-    },
-    {
-        "full_name": "Gregory Soto",
-        "team_side": "away",
-        "innings_pitched": "0.2",
-        "runs": 1,
-        "earned_runs": 1,
+        "innings_pitched": "1.0",
+        "runs": 2,
+        "earned_runs": 2,
         "strikeouts": 1
     },
     {
-        "full_name": "David Peterson",
+        "full_name": "Richard Lovelady",
         "team_side": "away",
-        "innings_pitched": "1.1",
+        "innings_pitched": "2.0",
+        "runs": 2,
+        "earned_runs": 1,
+        "strikeouts": 2
+    },
+    {
+        "full_name": "Jonah Tong",
+        "team_side": "away",
+        "innings_pitched": "2.0",
         "runs": 5,
         "earned_runs": 5,
         "strikeouts": 1
     },
     {
-        "full_name": "Ryne Stanek",
-        "team_side": "away",
-        "innings_pitched": "1.0",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 1
-    },
-    {
-        "full_name": "Edwin D\u00edaz",
+        "full_name": "Ryan Helsley",
         "team_side": "away",
         "innings_pitched": "2.0",
         "runs": 0,
         "earned_runs": 0,
-        "strikeouts": 5
+        "strikeouts": 2
     },
     {
-        "full_name": "Tyler Rogers",
+        "full_name": "Clay Holmes",
         "team_side": "away",
         "innings_pitched": "1.0",
-        "runs": 0,
+        "runs": 1,
         "earned_runs": 0,
         "strikeouts": 0
     },
     {
-        "full_name": "Brooks Raley",
-        "team_side": "away",
-        "innings_pitched": "0.1",
+        "full_name": "Daniel Palencia",
+        "team_side": "home",
+        "innings_pitched": "0.2",
         "runs": 0,
         "earned_runs": 0,
         "strikeouts": 1
     },
     {
-        "full_name": "Cade Horton",
+        "full_name": "Aaron Civale",
         "team_side": "home",
         "innings_pitched": "3.0",
         "runs": 1,
         "earned_runs": 1,
-        "strikeouts": 2
+        "strikeouts": 3
     },
     {
-        "full_name": "Jordan Wicks",
+        "full_name": "Matthew Boyd",
         "team_side": "home",
-        "innings_pitched": "1.0",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 1
-    },
-    {
-        "full_name": "Caleb Thielbar",
-        "team_side": "home",
-        "innings_pitched": "1.0",
+        "innings_pitched": "5.1",
         "runs": 2,
         "earned_runs": 2,
-        "strikeouts": 0
-    },
-    {
-        "full_name": "Drew Pomeranz",
-        "team_side": "home",
-        "innings_pitched": "0.1",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 1
-    },
-    {
-        "full_name": "Michael Soroka",
-        "team_side": "home",
-        "innings_pitched": "1.2",
-        "runs": 4,
-        "earned_runs": 0,
-        "strikeouts": 1
-    },
-    {
-        "full_name": "Andrew Kittredge",
-        "team_side": "home",
-        "innings_pitched": "1.0",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 1
-    },
-    {
-        "full_name": "Taylor Rogers",
-        "team_side": "home",
-        "innings_pitched": "1.0",
-        "runs": 2,
-        "earned_runs": 2,
-        "strikeouts": 1
+        "strikeouts": 3
     }
 ]
