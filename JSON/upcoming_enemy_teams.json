@@ -1,16 +1,16 @@
 [
     {
-        "away_team":"New York Mets",
+        "away_team":"St. Louis Cardinals",
         "home_team":"Chicago Cubs",
-        "away_pitcher":"Nolan McLean",
-        "away_wins":4,
-        "away_losses":1,
-        "away_era":"1.27",
-        "home_pitcher":"Shota Imanaga",
-        "home_wins":9,
-        "home_losses":7,
-        "home_era":"3.37",
-        "game_time_ct":"2025-09-25 06:40 PM",
-        "networks":"Marquee Sports Network, SNY, 670 The Score, Audacy Mets Radio WHSQ 880AM, MLBN, MLBN, WRTO 1200, Audacy App 92.3 HD2"
+        "away_pitcher":"Miles Mikolas",
+        "away_wins":8,
+        "away_losses":10,
+        "away_era":"4.76",
+        "home_pitcher":"TBD",
+        "home_wins":null,
+        "home_losses":null,
+        "home_era":null,
+        "game_time_ct":"2025-09-26 01:20 PM",
+        "networks":"FanDuel Sports Network Midwest, Marquee Sports Network, 670 The Score, KMOX 1120 AM\/104.1 FM, MLBN (out-of-market only), MLBN (out-of-market only), WRTO 1200"
     }
 ]
