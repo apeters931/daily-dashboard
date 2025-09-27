@@ -1,8 +1,20 @@
 [
     {
-        "full_name": "Joey Ortiz",
+        "full_name": "Elly De La Cruz",
         "team_side": "away",
-        "at_bats": 1,
+        "at_bats": 4,
+        "hits": 1,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 0,
+        "runs_batted_in": 0,
+        "walks": 0,
+        "strikeouts": 0
+    },
+    {
+        "full_name": "Noelvi Marte",
+        "team_side": "away",
+        "at_bats": 4,
         "hits": 0,
         "doubles": 0,
         "triples": 0,
@@ -12,10 +24,10 @@
         "strikeouts": 0
     },
     {
-        "full_name": "Jackson Chourio",
+        "full_name": "Matt McLain",
         "team_side": "away",
         "at_bats": 4,
-        "hits": 1,
+        "hits": 0,
         "doubles": 0,
         "triples": 0,
         "home_runs": 0,
@@ -24,55 +36,7 @@
         "strikeouts": 2
     },
     {
-        "full_name": "Christian Yelich",
-        "team_side": "away",
-        "at_bats": 5,
-        "hits": 1,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 0,
-        "runs_batted_in": 0,
-        "walks": 0,
-        "strikeouts": 1
-    },
-    {
-        "full_name": "Jake Bauers",
-        "team_side": "away",
-        "at_bats": 1,
-        "hits": 1,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 0,
-        "runs_batted_in": 0,
-        "walks": 2,
-        "strikeouts": 0
-    },
-    {
-        "full_name": "Sal Frelick",
-        "team_side": "away",
-        "at_bats": 4,
-        "hits": 1,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 0,
-        "runs_batted_in": 0,
-        "walks": 0,
-        "strikeouts": 1
-    },
-    {
-        "full_name": "Andrew Vaughn",
-        "team_side": "away",
-        "at_bats": 4,
-        "hits": 1,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 0,
-        "runs_batted_in": 1,
-        "walks": 0,
-        "strikeouts": 0
-    },
-    {
-        "full_name": "Andruw Monasterio",
+        "full_name": "Ke'Bryan Hayes",
         "team_side": "away",
         "at_bats": 3,
         "hits": 0,
@@ -80,23 +44,11 @@
         "triples": 0,
         "home_runs": 0,
         "runs_batted_in": 0,
-        "walks": 0,
-        "strikeouts": 3
+        "walks": 1,
+        "strikeouts": 0
     },
     {
-        "full_name": "Caleb Durbin",
-        "team_side": "away",
-        "at_bats": 4,
-        "hits": 0,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 0,
-        "runs_batted_in": 0,
-        "walks": 0,
-        "strikeouts": 1
-    },
-    {
-        "full_name": "Blake Perkins",
+        "full_name": "Will Benson",
         "team_side": "away",
         "at_bats": 0,
         "hits": 0,
@@ -108,22 +60,22 @@
         "strikeouts": 0
     },
     {
-        "full_name": "Danny Jansen",
+        "full_name": "TJ Friedl",
         "team_side": "away",
         "at_bats": 3,
         "hits": 2,
-        "doubles": 0,
+        "doubles": 1,
         "triples": 0,
-        "home_runs": 1,
-        "runs_batted_in": 1,
+        "home_runs": 0,
+        "runs_batted_in": 0,
         "walks": 1,
-        "strikeouts": 1
+        "strikeouts": 0
     },
     {
-        "full_name": "Brice Turang",
+        "full_name": "Miguel Andujar",
         "team_side": "away",
         "at_bats": 4,
-        "hits": 3,
+        "hits": 2,
         "doubles": 0,
         "triples": 0,
         "home_runs": 0,
@@ -132,79 +84,55 @@
         "strikeouts": 0
     },
     {
-        "full_name": "Rhys Hoskins",
+        "full_name": "Spencer Steer",
         "team_side": "away",
-        "at_bats": 1,
-        "hits": 0,
+        "at_bats": 4,
+        "hits": 1,
         "doubles": 0,
         "triples": 0,
         "home_runs": 0,
-        "runs_batted_in": 0,
-        "walks": 0,
-        "strikeouts": 0
-    },
-    {
-        "full_name": "Freddy Fermin",
-        "team_side": "home",
-        "at_bats": 3,
-        "hits": 0,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 0,
-        "runs_batted_in": 0,
+        "runs_batted_in": 1,
         "walks": 0,
         "strikeouts": 3
     },
     {
-        "full_name": "Jackson Merrill",
-        "team_side": "home",
-        "at_bats": 4,
-        "hits": 1,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 1,
-        "runs_batted_in": 1,
-        "walks": 0,
-        "strikeouts": 2
-    },
-    {
-        "full_name": "Gavin Sheets",
-        "team_side": "home",
+        "full_name": "Tyler Stephenson",
+        "team_side": "away",
         "at_bats": 3,
         "hits": 1,
         "doubles": 0,
         "triples": 0,
         "home_runs": 0,
-        "runs_batted_in": 0,
-        "walks": 1,
-        "strikeouts": 1
-    },
-    {
-        "full_name": "Ram\u00f3n Laureano",
-        "team_side": "home",
-        "at_bats": 1,
-        "hits": 0,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 0,
-        "runs_batted_in": 0,
+        "runs_batted_in": 1,
         "walks": 0,
         "strikeouts": 1
     },
     {
-        "full_name": "Manny Machado",
-        "team_side": "home",
+        "full_name": "Gavin Lux",
+        "team_side": "away",
         "at_bats": 4,
+        "hits": 2,
+        "doubles": 2,
+        "triples": 0,
+        "home_runs": 0,
+        "runs_batted_in": 0,
+        "walks": 0,
+        "strikeouts": 1
+    },
+    {
+        "full_name": "Joey Ortiz",
+        "team_side": "home",
+        "at_bats": 3,
         "hits": 0,
         "doubles": 0,
         "triples": 0,
         "home_runs": 0,
         "runs_batted_in": 0,
         "walks": 0,
-        "strikeouts": 4
+        "strikeouts": 1
     },
     {
-        "full_name": "Bryce Johnson",
+        "full_name": "Jackson Chourio",
         "team_side": "home",
         "at_bats": 2,
         "hits": 0,
@@ -212,11 +140,35 @@
         "triples": 0,
         "home_runs": 0,
         "runs_batted_in": 0,
-        "walks": 0,
+        "walks": 2,
         "strikeouts": 1
     },
     {
-        "full_name": "Xander Bogaerts",
+        "full_name": "Christian Yelich",
+        "team_side": "home",
+        "at_bats": 4,
+        "hits": 1,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 0,
+        "runs_batted_in": 0,
+        "walks": 0,
+        "strikeouts": 2
+    },
+    {
+        "full_name": "Jake Bauers",
+        "team_side": "home",
+        "at_bats": 3,
+        "hits": 0,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 0,
+        "runs_batted_in": 0,
+        "walks": 0,
+        "strikeouts": 0
+    },
+    {
+        "full_name": "Sal Frelick",
         "team_side": "home",
         "at_bats": 4,
         "hits": 1,
@@ -228,7 +180,7 @@
         "strikeouts": 0
     },
     {
-        "full_name": "Jake Cronenworth",
+        "full_name": "Andrew Vaughn",
         "team_side": "home",
         "at_bats": 3,
         "hits": 0,
@@ -240,27 +192,39 @@
         "strikeouts": 1
     },
     {
-        "full_name": "Luis Arraez",
+        "full_name": "Andruw Monasterio",
         "team_side": "home",
         "at_bats": 3,
-        "hits": 1,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 0,
-        "runs_batted_in": 0,
-        "walks": 1,
-        "strikeouts": 0
-    },
-    {
-        "full_name": "Ryan O'Hearn",
-        "team_side": "home",
-        "at_bats": 4,
-        "hits": 2,
+        "hits": 0,
         "doubles": 0,
         "triples": 0,
         "home_runs": 0,
         "runs_batted_in": 0,
         "walks": 0,
         "strikeouts": 0
+    },
+    {
+        "full_name": "William Contreras",
+        "team_side": "home",
+        "at_bats": 4,
+        "hits": 0,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 0,
+        "runs_batted_in": 0,
+        "walks": 0,
+        "strikeouts": 2
+    },
+    {
+        "full_name": "Brice Turang",
+        "team_side": "home",
+        "at_bats": 4,
+        "hits": 1,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 0,
+        "runs_batted_in": 1,
+        "walks": 0,
+        "strikeouts": 2
     }
 ]

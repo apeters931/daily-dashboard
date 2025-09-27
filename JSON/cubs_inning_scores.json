@@ -1,13 +1,13 @@
 {
     "game_summary": {
-        "away_team": "New York Mets",
+        "away_team": "St. Louis Cardinals",
         "home_team": "Chicago Cubs"
     },
     "inning_scores": [
         {
             "inning": 1,
-            "away_runs": 2,
-            "home_runs": 0
+            "away_runs": 0,
+            "home_runs": 1
         },
         {
             "inning": 2,
@@ -16,13 +16,13 @@
         },
         {
             "inning": 3,
-            "away_runs": 1,
+            "away_runs": 0,
             "home_runs": 0
         },
         {
             "inning": 4,
-            "away_runs": 3,
-            "home_runs": 1
+            "away_runs": 0,
+            "home_runs": 2
         },
         {
             "inning": 5,
@@ -31,18 +31,18 @@
         },
         {
             "inning": 6,
-            "away_runs": 2,
-            "home_runs": 3
+            "away_runs": 0,
+            "home_runs": 0
         },
         {
             "inning": 7,
-            "away_runs": 0,
-            "home_runs": 0
+            "away_runs": 1,
+            "home_runs": 7
         },
         {
             "inning": 8,
             "away_runs": 0,
-            "home_runs": 0
+            "home_runs": 1
         },
         {
             "inning": 9,
@@ -51,10 +51,10 @@
         }
     ],
     "final_score": {
-        "away_runs": 8,
-        "home_runs": 5,
-        "away_hits": 10,
-        "home_hits": 7,
+        "away_runs": 1,
+        "home_runs": 12,
+        "away_hits": 5,
+        "home_hits": 12,
         "away_errors": 0,
         "home_errors": 0
     }

@@ -1,74 +1,74 @@
 [
     {
-        "full_name": "Ryne Stanek",
+        "full_name": "Chris Roycroft",
         "team_side": "away",
-        "innings_pitched": "0.2",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 0
+        "innings_pitched": "1.2",
+        "runs": 3,
+        "earned_runs": 3,
+        "strikeouts": 1
     },
     {
-        "full_name": "Edwin D\u00edaz",
+        "full_name": "Miles Mikolas",
         "team_side": "away",
-        "innings_pitched": "1.0",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 0
+        "innings_pitched": "5.0",
+        "runs": 4,
+        "earned_runs": 4,
+        "strikeouts": 4
     },
     {
-        "full_name": "Tyler Rogers",
+        "full_name": "Gordon Graceffo",
         "team_side": "away",
-        "innings_pitched": "1.0",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 0
-    },
-    {
-        "full_name": "Brooks Raley",
-        "team_side": "away",
-        "innings_pitched": "1.0",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 3
-    },
-    {
-        "full_name": "Nolan McLean",
-        "team_side": "away",
-        "innings_pitched": "5.1",
+        "innings_pitched": "0.1",
         "runs": 5,
         "earned_runs": 5,
-        "strikeouts": 11
+        "strikeouts": 1
     },
     {
-        "full_name": "Shota Imanaga",
+        "full_name": "John King",
+        "team_side": "away",
+        "innings_pitched": "1.0",
+        "runs": 0,
+        "earned_runs": 0,
+        "strikeouts": 1
+    },
+    {
+        "full_name": "Daniel Palencia",
         "team_side": "home",
-        "innings_pitched": "5.2",
-        "runs": 8,
-        "earned_runs": 8,
+        "innings_pitched": "1.0",
+        "runs": 0,
+        "earned_runs": 0,
+        "strikeouts": 1
+    },
+    {
+        "full_name": "Caleb Thielbar",
+        "team_side": "home",
+        "innings_pitched": "0.1",
+        "runs": 1,
+        "earned_runs": 1,
+        "strikeouts": 1
+    },
+    {
+        "full_name": "Andrew Kittredge",
+        "team_side": "home",
+        "innings_pitched": "1.0",
+        "runs": 0,
+        "earned_runs": 0,
         "strikeouts": 3
     },
     {
-        "full_name": "Drew Pomeranz",
+        "full_name": "Colin Rea",
         "team_side": "home",
-        "innings_pitched": "1.1",
+        "innings_pitched": "5.2",
+        "runs": 0,
+        "earned_runs": 0,
+        "strikeouts": 7
+    },
+    {
+        "full_name": "Brad Keller",
+        "team_side": "home",
+        "innings_pitched": "1.0",
         "runs": 0,
         "earned_runs": 0,
         "strikeouts": 2
-    },
-    {
-        "full_name": "Michael Soroka",
-        "team_side": "home",
-        "innings_pitched": "1.0",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 1
-    },
-    {
-        "full_name": "Taylor Rogers",
-        "team_side": "home",
-        "innings_pitched": "1.0",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 1
     }
 ]
