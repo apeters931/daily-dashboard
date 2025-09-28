@@ -8,59 +8,75 @@
         "strikeouts": 1
     },
     {
-        "full_name": "Tony Santillan",
+        "full_name": "Nick Martinez",
         "team_side": "away",
-        "innings_pitched": "1.0",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 1
-    },
-    {
-        "full_name": "Connor Phillips",
-        "team_side": "away",
-        "innings_pitched": "1.1",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 3
-    },
-    {
-        "full_name": "Graham Ashcraft",
-        "team_side": "away",
-        "innings_pitched": "1.0",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 1
-    },
-    {
-        "full_name": "Zack Littell",
-        "team_side": "away",
-        "innings_pitched": "4.2",
-        "runs": 1,
-        "earned_runs": 1,
-        "strikeouts": 3
-    },
-    {
-        "full_name": "Tobias Myers",
-        "team_side": "home",
-        "innings_pitched": "3.0",
+        "innings_pitched": "2.0",
         "runs": 0,
         "earned_runs": 0,
         "strikeouts": 2
     },
     {
-        "full_name": "Quinn Priester",
-        "team_side": "home",
-        "innings_pitched": "5.0",
+        "full_name": "Connor Phillips",
+        "team_side": "away",
+        "innings_pitched": "0.1",
+        "runs": 1,
+        "earned_runs": 1,
+        "strikeouts": 0
+    },
+    {
+        "full_name": "Graham Ashcraft",
+        "team_side": "away",
+        "innings_pitched": "0.1",
+        "runs": 0,
+        "earned_runs": 0,
+        "strikeouts": 0
+    },
+    {
+        "full_name": "Andrew Abbott",
+        "team_side": "away",
+        "innings_pitched": "5.1",
         "runs": 3,
         "earned_runs": 3,
         "strikeouts": 4
     },
     {
-        "full_name": "Nick Mears",
+        "full_name": "Carlos Rodriguez",
         "team_side": "home",
-        "innings_pitched": "1.0",
+        "innings_pitched": "2.0",
         "runs": 0,
         "earned_runs": 0,
-        "strikeouts": 1
+        "strikeouts": 5
+    },
+    {
+        "full_name": "Rob Zastryzny",
+        "team_side": "home",
+        "innings_pitched": "0.1",
+        "runs": 0,
+        "earned_runs": 0,
+        "strikeouts": 0
+    },
+    {
+        "full_name": "Grant Anderson",
+        "team_side": "home",
+        "innings_pitched": "1.2",
+        "runs": 1,
+        "earned_runs": 1,
+        "strikeouts": 2
+    },
+    {
+        "full_name": "Robert Gasser",
+        "team_side": "home",
+        "innings_pitched": "2.2",
+        "runs": 4,
+        "earned_runs": 0,
+        "strikeouts": 3
+    },
+    {
+        "full_name": "Jacob Misiorowski",
+        "team_side": "home",
+        "innings_pitched": "2.1",
+        "runs": 2,
+        "earned_runs": 1,
+        "strikeouts": 3
     }
 ]

@@ -2,15 +2,15 @@
     {
         "away_team":"Cincinnati Reds",
         "home_team":"Milwaukee Brewers",
-        "away_pitcher":"Andrew Abbott",
-        "away_wins":9,
-        "away_losses":7,
-        "away_era":"2.80",
-        "home_pitcher":"Robert Gasser",
-        "home_wins":0,
-        "home_losses":1,
-        "home_era":"6.00",
-        "game_time_ct":"2025-09-27 06:15 PM",
-        "networks":"FOX, FOX, WLW 700, WTMJ 620"
+        "away_pitcher":"Brady Singer",
+        "away_wins":14,
+        "away_losses":11,
+        "away_era":"3.95",
+        "home_pitcher":"Freddy Peralta",
+        "home_wins":17,
+        "home_losses":6,
+        "home_era":"2.68",
+        "game_time_ct":"2025-09-28 02:10 PM",
+        "networks":"FanDuel Sports Network Wisconsin, FanDuel Sports Network Ohio, WTMJ 620, WLW 700, Telemundo Wisconsin"
     }
 ]

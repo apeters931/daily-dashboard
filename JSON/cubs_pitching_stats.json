@@ -1,67 +1,67 @@
 [
     {
-        "full_name": "Chris Roycroft",
+        "full_name": "Michael McGreevy",
         "team_side": "away",
-        "innings_pitched": "1.2",
+        "innings_pitched": "4.2",
         "runs": 3,
         "earned_runs": 3,
-        "strikeouts": 1
+        "strikeouts": 3
     },
     {
-        "full_name": "Miles Mikolas",
+        "full_name": "Matt Svanson",
         "team_side": "away",
-        "innings_pitched": "5.0",
-        "runs": 4,
-        "earned_runs": 4,
-        "strikeouts": 4
+        "innings_pitched": "1.0",
+        "runs": 0,
+        "earned_runs": 0,
+        "strikeouts": 2
     },
     {
-        "full_name": "Gordon Graceffo",
+        "full_name": "Ryan Fernandez",
         "team_side": "away",
-        "innings_pitched": "0.1",
-        "runs": 5,
-        "earned_runs": 5,
+        "innings_pitched": "1.0",
+        "runs": 2,
+        "earned_runs": 2,
+        "strikeouts": 2
+    },
+    {
+        "full_name": "Jorge Alcala",
+        "team_side": "away",
+        "innings_pitched": "1.0",
+        "runs": 2,
+        "earned_runs": 2,
         "strikeouts": 1
     },
     {
         "full_name": "John King",
         "team_side": "away",
-        "innings_pitched": "1.0",
+        "innings_pitched": "0.1",
         "runs": 0,
         "earned_runs": 0,
-        "strikeouts": 1
-    },
-    {
-        "full_name": "Daniel Palencia",
-        "team_side": "home",
-        "innings_pitched": "1.0",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 1
+        "strikeouts": 0
     },
     {
         "full_name": "Caleb Thielbar",
         "team_side": "home",
-        "innings_pitched": "0.1",
-        "runs": 1,
-        "earned_runs": 1,
-        "strikeouts": 1
+        "innings_pitched": "1.0",
+        "runs": 2,
+        "earned_runs": 2,
+        "strikeouts": 2
     },
     {
-        "full_name": "Andrew Kittredge",
+        "full_name": "Jameson Taillon",
+        "team_side": "home",
+        "innings_pitched": "6.0",
+        "runs": 1,
+        "earned_runs": 1,
+        "strikeouts": 8
+    },
+    {
+        "full_name": "Drew Pomeranz",
         "team_side": "home",
         "innings_pitched": "1.0",
         "runs": 0,
         "earned_runs": 0,
-        "strikeouts": 3
-    },
-    {
-        "full_name": "Colin Rea",
-        "team_side": "home",
-        "innings_pitched": "5.2",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 7
+        "strikeouts": 2
     },
     {
         "full_name": "Brad Keller",
@@ -69,6 +69,6 @@
         "innings_pitched": "1.0",
         "runs": 0,
         "earned_runs": 0,
-        "strikeouts": 2
+        "strikeouts": 1
     }
 ]
