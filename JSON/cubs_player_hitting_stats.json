@@ -2,19 +2,7 @@
     {
         "full_name": "Freddy Fermin",
         "team_side": "away",
-        "at_bats": 3,
-        "hits": 1,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 0,
-        "runs_batted_in": 0,
-        "walks": 0,
-        "strikeouts": 0
-    },
-    {
-        "full_name": "Jackson Merrill",
-        "team_side": "away",
-        "at_bats": 3,
+        "at_bats": 4,
         "hits": 1,
         "doubles": 1,
         "triples": 0,
@@ -24,9 +12,33 @@
         "strikeouts": 1
     },
     {
+        "full_name": "Jackson Merrill",
+        "team_side": "away",
+        "at_bats": 2,
+        "hits": 0,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 0,
+        "runs_batted_in": 1,
+        "walks": 1,
+        "strikeouts": 0
+    },
+    {
+        "full_name": "Jose Iglesias",
+        "team_side": "away",
+        "at_bats": 1,
+        "hits": 0,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 0,
+        "runs_batted_in": 0,
+        "walks": 0,
+        "strikeouts": 0
+    },
+    {
         "full_name": "Gavin Sheets",
         "team_side": "away",
-        "at_bats": 3,
+        "at_bats": 1,
         "hits": 0,
         "doubles": 0,
         "triples": 0,
@@ -38,19 +50,31 @@
     {
         "full_name": "Manny Machado",
         "team_side": "away",
-        "at_bats": 3,
-        "hits": 0,
+        "at_bats": 4,
+        "hits": 1,
         "doubles": 0,
         "triples": 0,
-        "home_runs": 0,
-        "runs_batted_in": 0,
-        "walks": 1,
-        "strikeouts": 1
+        "home_runs": 1,
+        "runs_batted_in": 2,
+        "walks": 0,
+        "strikeouts": 2
     },
     {
         "full_name": "Fernando Tatis Jr.",
         "team_side": "away",
         "at_bats": 4,
+        "hits": 1,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 0,
+        "runs_batted_in": 0,
+        "walks": 1,
+        "strikeouts": 0
+    },
+    {
+        "full_name": "Bryce Johnson",
+        "team_side": "away",
+        "at_bats": 2,
         "hits": 0,
         "doubles": 0,
         "triples": 0,
@@ -63,19 +87,7 @@
         "full_name": "Xander Bogaerts",
         "team_side": "away",
         "at_bats": 4,
-        "hits": 2,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 0,
-        "runs_batted_in": 1,
-        "walks": 0,
-        "strikeouts": 1
-    },
-    {
-        "full_name": "Jake Cronenworth",
-        "team_side": "away",
-        "at_bats": 3,
-        "hits": 0,
+        "hits": 1,
         "doubles": 0,
         "triples": 0,
         "home_runs": 0,
@@ -84,7 +96,7 @@
         "strikeouts": 1
     },
     {
-        "full_name": "Luis Arraez",
+        "full_name": "Jake Cronenworth",
         "team_side": "away",
         "at_bats": 4,
         "hits": 0,
@@ -96,10 +108,10 @@
         "strikeouts": 1
     },
     {
-        "full_name": "Ryan O'Hearn",
+        "full_name": "Luis Arraez",
         "team_side": "away",
         "at_bats": 3,
-        "hits": 0,
+        "hits": 2,
         "doubles": 0,
         "triples": 0,
         "home_runs": 0,
@@ -108,10 +120,22 @@
         "strikeouts": 0
     },
     {
+        "full_name": "Ryan O'Hearn",
+        "team_side": "away",
+        "at_bats": 3,
+        "hits": 1,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 0,
+        "runs_batted_in": 0,
+        "walks": 1,
+        "strikeouts": 0
+    },
+    {
         "full_name": "Kyle Tucker",
         "team_side": "home",
-        "at_bats": 3,
-        "hits": 0,
+        "at_bats": 4,
+        "hits": 1,
         "doubles": 0,
         "triples": 0,
         "home_runs": 0,
@@ -129,31 +153,31 @@
         "home_runs": 0,
         "runs_batted_in": 0,
         "walks": 0,
-        "strikeouts": 3
+        "strikeouts": 2
     },
     {
         "full_name": "Michael Busch",
         "team_side": "home",
         "at_bats": 3,
-        "hits": 1,
+        "hits": 0,
         "doubles": 0,
         "triples": 0,
         "home_runs": 0,
         "runs_batted_in": 0,
-        "walks": 1,
+        "walks": 0,
         "strikeouts": 0
     },
     {
         "full_name": "Carson Kelly",
         "team_side": "home",
-        "at_bats": 3,
-        "hits": 1,
+        "at_bats": 2,
+        "hits": 0,
         "doubles": 0,
         "triples": 0,
-        "home_runs": 1,
-        "runs_batted_in": 1,
-        "walks": 0,
-        "strikeouts": 2
+        "home_runs": 0,
+        "runs_batted_in": 0,
+        "walks": 1,
+        "strikeouts": 1
     },
     {
         "full_name": "Pete Crow-Armstrong",
@@ -165,19 +189,43 @@
         "home_runs": 0,
         "runs_batted_in": 0,
         "walks": 0,
-        "strikeouts": 3
+        "strikeouts": 2
+    },
+    {
+        "full_name": "Mois\u00e9s Ballesteros",
+        "team_side": "home",
+        "at_bats": 1,
+        "hits": 0,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 0,
+        "runs_batted_in": 0,
+        "walks": 0,
+        "strikeouts": 1
+    },
+    {
+        "full_name": "Willi Castro",
+        "team_side": "home",
+        "at_bats": 0,
+        "hits": 0,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 0,
+        "runs_batted_in": 0,
+        "walks": 0,
+        "strikeouts": 0
     },
     {
         "full_name": "Seiya Suzuki",
         "team_side": "home",
-        "at_bats": 3,
+        "at_bats": 4,
         "hits": 1,
-        "doubles": 0,
+        "doubles": 1,
         "triples": 0,
-        "home_runs": 1,
-        "runs_batted_in": 1,
+        "home_runs": 0,
+        "runs_batted_in": 0,
         "walks": 0,
-        "strikeouts": 1
+        "strikeouts": 2
     },
     {
         "full_name": "Dansby Swanson",
@@ -189,17 +237,17 @@
         "home_runs": 0,
         "runs_batted_in": 0,
         "walks": 0,
-        "strikeouts": 1
+        "strikeouts": 2
     },
     {
         "full_name": "Nico Hoerner",
         "team_side": "home",
-        "at_bats": 3,
-        "hits": 2,
+        "at_bats": 4,
+        "hits": 1,
         "doubles": 0,
         "triples": 0,
         "home_runs": 0,
-        "runs_batted_in": 1,
+        "runs_batted_in": 0,
         "walks": 0,
         "strikeouts": 0
     },
@@ -213,6 +261,6 @@
         "home_runs": 0,
         "runs_batted_in": 0,
         "walks": 0,
-        "strikeouts": 2
+        "strikeouts": 0
     }
 ]

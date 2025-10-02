@@ -2,15 +2,15 @@
     {
         "away_team":"San Diego Padres",
         "home_team":"Chicago Cubs",
-        "away_pitcher":"Dylan Cease",
-        "away_wins":8,
-        "away_losses":12,
-        "away_era":"4.55",
-        "home_pitcher":"Andrew Kittredge",
-        "home_wins":4,
-        "home_losses":3,
-        "home_era":"3.40",
-        "game_time_ct":"2025-10-01 02:08 PM",
-        "networks":"ABC, ABC, 670 The Score, KWFN 97.3, XEMO 860, WRTO 1200, ESPN Radio, ESPN Radio"
+        "away_pitcher":"Yu Darvish",
+        "away_wins":5,
+        "away_losses":5,
+        "away_era":"5.38",
+        "home_pitcher":"Jameson Taillon",
+        "home_wins":11,
+        "home_losses":7,
+        "home_era":"3.68",
+        "game_time_ct":"2025-10-02 04:08 PM",
+        "networks":"ESPN, ESPN, KWFN 97.3, 670 The Score, XEMO 860, WRTO 1200, ESPN Radio, ESPN Radio"
     }
 ]
