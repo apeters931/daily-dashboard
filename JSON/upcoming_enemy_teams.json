@@ -1,16 +1,16 @@
 [
     {
-        "away_team":"San Diego Padres",
-        "home_team":"Chicago Cubs",
-        "away_pitcher":"Yu Darvish",
-        "away_wins":5,
-        "away_losses":5,
-        "away_era":"5.38",
-        "home_pitcher":"Jameson Taillon",
-        "home_wins":11,
-        "home_losses":7,
-        "home_era":"3.68",
-        "game_time_ct":"2025-10-02 04:08 PM",
-        "networks":"ESPN, ESPN, KWFN 97.3, 670 The Score, XEMO 860, WRTO 1200, ESPN Radio, ESPN Radio"
+        "away_team":"Chicago Cubs",
+        "home_team":"Milwaukee Brewers",
+        "away_pitcher":"Matthew Boyd",
+        "away_wins":14,
+        "away_losses":8,
+        "away_era":"3.21",
+        "home_pitcher":"Freddy Peralta",
+        "home_wins":17,
+        "home_losses":6,
+        "home_era":"2.70",
+        "game_time_ct":"2025-10-04 01:08 PM",
+        "networks":"TBS, TBS, 670 The Score, WTMJ 620, WRTO 1200, ESPN Radio, ESPN Radio, HBO Max, HBO Max"
     }
 ]
