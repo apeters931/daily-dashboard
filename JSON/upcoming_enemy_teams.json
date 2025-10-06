@@ -1,3 +1,16 @@
 [
-
+    {
+        "away_team":"Chicago Cubs",
+        "home_team":"Milwaukee Brewers",
+        "away_pitcher":"Shota Imanaga",
+        "away_wins":9,
+        "away_losses":8,
+        "away_era":"3.73",
+        "home_pitcher":"Aaron Ashby",
+        "home_wins":5,
+        "home_losses":2,
+        "home_era":"2.16",
+        "game_time_ct":"2025-10-06 08:08 PM",
+        "networks":"TBS, TBS, 670 The Score, WTMJ 620, WRTO 1200, ESPN Radio, ESPN Radio, HBO Max, HBO Max"
+    }
 ]
