@@ -1,3 +1,16 @@
 [
-
+    {
+        "away_team":"Chicago Cubs",
+        "home_team":"Milwaukee Brewers",
+        "away_pitcher":"TBD",
+        "away_wins":null,
+        "away_losses":null,
+        "away_era":null,
+        "home_pitcher":"TBD",
+        "home_wins":null,
+        "home_losses":null,
+        "home_era":null,
+        "game_time_ct":"2025-10-11 07:08 PM",
+        "networks":"TBS, TBS, 670 The Score, WTMJ 620, WRTO 1200, ESPN Radio, ESPN Radio, HBO Max, HBO Max"
+    }
 ]
