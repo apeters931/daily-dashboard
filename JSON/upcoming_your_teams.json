@@ -1,3 +1,16 @@
 [
-
+    {
+        "away_team":"Los Angeles Dodgers",
+        "home_team":"Milwaukee Brewers",
+        "away_pitcher":"Blake Snell",
+        "away_wins":5,
+        "away_losses":4,
+        "away_era":"2.35",
+        "home_pitcher":"TBD",
+        "home_wins":null,
+        "home_losses":null,
+        "home_era":null,
+        "game_time_ct":"2025-10-13 07:08 PM",
+        "networks":"TBS, TBS, Dodgers Radio AM570, WTMJ 620, Univision TUDN, KTNQ 1020, ESPN Radio, HBO Max, ESPN Radio, HBO Max"
+    }
 ]
