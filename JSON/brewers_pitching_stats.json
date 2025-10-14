@@ -1,83 +1,67 @@
 [
     {
-        "full_name": "Daniel Palencia",
+        "full_name": "Blake Snell",
         "team_side": "away",
-        "innings_pitched": "1.1",
+        "innings_pitched": "8.0",
         "runs": 0,
         "earned_runs": 0,
-        "strikeouts": 0
+        "strikeouts": 10
     },
     {
-        "full_name": "Caleb Thielbar",
+        "full_name": "Blake Treinen",
         "team_side": "away",
-        "innings_pitched": "0.2",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 1
-    },
-    {
-        "full_name": "Drew Pomeranz",
-        "team_side": "away",
-        "innings_pitched": "1.0",
-        "runs": 1,
-        "earned_runs": 1,
-        "strikeouts": 1
-    },
-    {
-        "full_name": "Andrew Kittredge",
-        "team_side": "away",
-        "innings_pitched": "1.1",
-        "runs": 1,
-        "earned_runs": 1,
-        "strikeouts": 0
-    },
-    {
-        "full_name": "Colin Rea",
-        "team_side": "away",
-        "innings_pitched": "2.2",
-        "runs": 1,
-        "earned_runs": 1,
-        "strikeouts": 2
-    },
-    {
-        "full_name": "Brad Keller",
-        "team_side": "away",
-        "innings_pitched": "1.0",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 0
-    },
-    {
-        "full_name": "Chad Patrick",
-        "team_side": "home",
-        "innings_pitched": "1.2",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 3
-    },
-    {
-        "full_name": "Abner Uribe",
-        "team_side": "home",
-        "innings_pitched": "2.0",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 0
-    },
-    {
-        "full_name": "Aaron Ashby",
-        "team_side": "home",
         "innings_pitched": "0.1",
         "runs": 0,
         "earned_runs": 0,
         "strikeouts": 1
     },
     {
-        "full_name": "Jacob Misiorowski",
-        "team_side": "home",
-        "innings_pitched": "4.0",
+        "full_name": "Roki Sasaki",
+        "team_side": "away",
+        "innings_pitched": "0.2",
         "runs": 1,
         "earned_runs": 1,
-        "strikeouts": 3
+        "strikeouts": 0
+    },
+    {
+        "full_name": "Chad Patrick",
+        "team_side": "home",
+        "innings_pitched": "0.1",
+        "runs": 1,
+        "earned_runs": 1,
+        "strikeouts": 0
+    },
+    {
+        "full_name": "Abner Uribe",
+        "team_side": "home",
+        "innings_pitched": "1.0",
+        "runs": 1,
+        "earned_runs": 1,
+        "strikeouts": 0
+    },
+    {
+        "full_name": "Quinn Priester",
+        "team_side": "home",
+        "innings_pitched": "4.0",
+        "runs": 0,
+        "earned_runs": 0,
+        "strikeouts": 1
+    },
+    {
+        "full_name": "Aaron Ashby",
+        "team_side": "home",
+        "innings_pitched": "1.0",
+        "runs": 0,
+        "earned_runs": 0,
+        "strikeouts": 1
+    },
+    {
+        "full_name": "Jared Koenig",
+        "team_side": "home",
+        "innings_pitched": "1.2",
+        "runs": 0,
+        "earned_runs": 0,
+        "strikeouts": 1
     },
     {
         "full_name": "Trevor Megill",
