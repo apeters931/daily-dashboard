@@ -1,16 +1,3 @@
 [
-    {
-        "away_team":"Los Angeles Dodgers",
-        "home_team":"Milwaukee Brewers",
-        "away_pitcher":"Yoshinobu Yamamoto",
-        "away_wins":12,
-        "away_losses":8,
-        "away_era":"2.49",
-        "home_pitcher":"Freddy Peralta",
-        "home_wins":17,
-        "home_losses":6,
-        "home_era":"2.70",
-        "game_time_ct":"2025-10-14 07:08 PM",
-        "networks":"TBS, TBS, Dodgers Radio AM570, WTMJ 620, Univision TUDN, KTNQ 1020, ESPN Radio, ESPN Radio, HBO Max, HBO Max"
-    }
+
 ]

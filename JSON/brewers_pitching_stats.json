@@ -1,32 +1,16 @@
 [
     {
-        "full_name": "Blake Snell",
+        "full_name": "Yoshinobu Yamamoto",
         "team_side": "away",
-        "innings_pitched": "8.0",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 10
-    },
-    {
-        "full_name": "Blake Treinen",
-        "team_side": "away",
-        "innings_pitched": "0.1",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 1
-    },
-    {
-        "full_name": "Roki Sasaki",
-        "team_side": "away",
-        "innings_pitched": "0.2",
+        "innings_pitched": "9.0",
         "runs": 1,
         "earned_runs": 1,
-        "strikeouts": 0
+        "strikeouts": 7
     },
     {
-        "full_name": "Chad Patrick",
+        "full_name": "Tobias Myers",
         "team_side": "home",
-        "innings_pitched": "0.1",
+        "innings_pitched": "0.2",
         "runs": 1,
         "earned_runs": 1,
         "strikeouts": 0
@@ -34,41 +18,41 @@
     {
         "full_name": "Abner Uribe",
         "team_side": "home",
-        "innings_pitched": "1.0",
+        "innings_pitched": "0.2",
         "runs": 1,
         "earned_runs": 1,
-        "strikeouts": 0
+        "strikeouts": 1
     },
     {
-        "full_name": "Quinn Priester",
+        "full_name": "Grant Anderson",
         "team_side": "home",
-        "innings_pitched": "4.0",
+        "innings_pitched": "0.2",
         "runs": 0,
         "earned_runs": 0,
-        "strikeouts": 1
+        "strikeouts": 0
     },
     {
         "full_name": "Aaron Ashby",
         "team_side": "home",
-        "innings_pitched": "1.0",
+        "innings_pitched": "0.2",
         "runs": 0,
         "earned_runs": 0,
         "strikeouts": 1
     },
     {
-        "full_name": "Jared Koenig",
+        "full_name": "Freddy Peralta",
         "team_side": "home",
-        "innings_pitched": "1.2",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 1
+        "innings_pitched": "5.2",
+        "runs": 3,
+        "earned_runs": 3,
+        "strikeouts": 4
     },
     {
-        "full_name": "Trevor Megill",
+        "full_name": "Robert Gasser",
         "team_side": "home",
-        "innings_pitched": "1.0",
+        "innings_pitched": "0.2",
         "runs": 0,
         "earned_runs": 0,
-        "strikeouts": 1
+        "strikeouts": 2
     }
 ]
