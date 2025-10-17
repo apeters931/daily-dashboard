@@ -1,7 +1,7 @@
 {
     "game_summary": {
-        "away_team": "Los Angeles Dodgers",
-        "home_team": "Milwaukee Brewers"
+        "away_team": "Milwaukee Brewers",
+        "home_team": "Los Angeles Dodgers"
     },
     "inning_scores": [
         {
@@ -11,7 +11,7 @@
         },
         {
             "inning": 2,
-            "away_runs": 2,
+            "away_runs": 1,
             "home_runs": 0
         },
         {
@@ -31,17 +31,17 @@
         },
         {
             "inning": 6,
-            "away_runs": 1,
-            "home_runs": 0
+            "away_runs": 0,
+            "home_runs": 2
         },
         {
             "inning": 7,
-            "away_runs": 1,
+            "away_runs": 0,
             "home_runs": 0
         },
         {
             "inning": 8,
-            "away_runs": 1,
+            "away_runs": 0,
             "home_runs": 0
         },
         {
@@ -51,10 +51,10 @@
         }
     ],
     "final_score": {
-        "away_runs": 5,
-        "home_runs": 1,
-        "away_hits": 11,
-        "home_hits": 3,
+        "away_runs": 1,
+        "home_runs": 3,
+        "away_hits": 4,
+        "home_hits": 5,
         "away_errors": 1,
         "home_errors": 1
     }

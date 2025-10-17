@@ -1,58 +1,74 @@
 [
     {
-        "full_name": "Yoshinobu Yamamoto",
-        "team_side": "away",
-        "innings_pitched": "9.0",
-        "runs": 1,
-        "earned_runs": 1,
-        "strikeouts": 7
-    },
-    {
-        "full_name": "Tobias Myers",
-        "team_side": "home",
-        "innings_pitched": "0.2",
-        "runs": 1,
-        "earned_runs": 1,
-        "strikeouts": 0
-    },
-    {
         "full_name": "Abner Uribe",
-        "team_side": "home",
-        "innings_pitched": "0.2",
-        "runs": 1,
-        "earned_runs": 1,
-        "strikeouts": 1
-    },
-    {
-        "full_name": "Grant Anderson",
-        "team_side": "home",
-        "innings_pitched": "0.2",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 0
-    },
-    {
-        "full_name": "Aaron Ashby",
-        "team_side": "home",
-        "innings_pitched": "0.2",
-        "runs": 0,
-        "earned_runs": 0,
-        "strikeouts": 1
-    },
-    {
-        "full_name": "Freddy Peralta",
-        "team_side": "home",
-        "innings_pitched": "5.2",
-        "runs": 3,
-        "earned_runs": 3,
-        "strikeouts": 4
-    },
-    {
-        "full_name": "Robert Gasser",
-        "team_side": "home",
-        "innings_pitched": "0.2",
+        "team_side": "away",
+        "innings_pitched": "1.1",
         "runs": 0,
         "earned_runs": 0,
         "strikeouts": 2
+    },
+    {
+        "full_name": "Aaron Ashby",
+        "team_side": "away",
+        "innings_pitched": "0.1",
+        "runs": 1,
+        "earned_runs": 1,
+        "strikeouts": 1
+    },
+    {
+        "full_name": "Jacob Misiorowski",
+        "team_side": "away",
+        "innings_pitched": "5.0",
+        "runs": 2,
+        "earned_runs": 1,
+        "strikeouts": 9
+    },
+    {
+        "full_name": "Jared Koenig",
+        "team_side": "away",
+        "innings_pitched": "1.1",
+        "runs": 0,
+        "earned_runs": 0,
+        "strikeouts": 3
+    },
+    {
+        "full_name": "Tyler Glasnow",
+        "team_side": "home",
+        "innings_pitched": "5.2",
+        "runs": 1,
+        "earned_runs": 1,
+        "strikeouts": 8
+    },
+    {
+        "full_name": "Alex Vesia",
+        "team_side": "home",
+        "innings_pitched": "0.2",
+        "runs": 0,
+        "earned_runs": 0,
+        "strikeouts": 1
+    },
+    {
+        "full_name": "Anthony Banda",
+        "team_side": "home",
+        "innings_pitched": "1.0",
+        "runs": 0,
+        "earned_runs": 0,
+        "strikeouts": 1
+    },
+    {
+        "full_name": "Blake Treinen",
+        "team_side": "home",
+        "innings_pitched": "0.2",
+        "runs": 0,
+        "earned_runs": 0,
+        "strikeouts": 1
+    },
+    {
+        "full_name": "Roki Sasaki",
+        "team_side": "home",
+        "innings_pitched": "1.0",
+        "runs": 0,
+        "earned_runs": 0,
+        "strikeouts": 1
     }
 ]
