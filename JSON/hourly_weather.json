@@ -1,148 +1,148 @@
 {
   "location": "Madison",
-  "date": "2025-10-27",
+  "date": "2025-10-28",
   "hourly_weather": [
     {
-      "time": "2025-10-27 00:00",
-      "temperature_fahrenheit": 44.5,
+      "time": "2025-10-28 00:00",
+      "temperature_fahrenheit": 43.1,
       "condition": "Clear ",
       "chance_of_rain_percent": 0
     },
     {
-      "time": "2025-10-27 01:00",
-      "temperature_fahrenheit": 39.9,
+      "time": "2025-10-28 01:00",
+      "temperature_fahrenheit": 37.9,
       "condition": "Clear ",
       "chance_of_rain_percent": 0
     },
     {
-      "time": "2025-10-27 02:00",
-      "temperature_fahrenheit": 39.1,
-      "condition": "Fog",
+      "time": "2025-10-28 02:00",
+      "temperature_fahrenheit": 42.6,
+      "condition": "Clear ",
       "chance_of_rain_percent": 0
     },
     {
-      "time": "2025-10-27 03:00",
-      "temperature_fahrenheit": 37.7,
-      "condition": "Fog",
+      "time": "2025-10-28 03:00",
+      "temperature_fahrenheit": 42.2,
+      "condition": "Clear ",
       "chance_of_rain_percent": 0
     },
     {
-      "time": "2025-10-27 04:00",
-      "temperature_fahrenheit": 36.8,
-      "condition": "Mist",
+      "time": "2025-10-28 04:00",
+      "temperature_fahrenheit": 41.9,
+      "condition": "Clear ",
       "chance_of_rain_percent": 0
     },
     {
-      "time": "2025-10-27 05:00",
-      "temperature_fahrenheit": 36.3,
-      "condition": "Mist",
+      "time": "2025-10-28 05:00",
+      "temperature_fahrenheit": 41.8,
+      "condition": "Clear ",
       "chance_of_rain_percent": 0
     },
     {
-      "time": "2025-10-27 06:00",
-      "temperature_fahrenheit": 36.4,
-      "condition": "Mist",
+      "time": "2025-10-28 06:00",
+      "temperature_fahrenheit": 42.0,
+      "condition": "Clear ",
       "chance_of_rain_percent": 0
     },
     {
-      "time": "2025-10-27 07:00",
-      "temperature_fahrenheit": 36.8,
-      "condition": "Mist",
+      "time": "2025-10-28 07:00",
+      "temperature_fahrenheit": 42.1,
+      "condition": "Clear ",
       "chance_of_rain_percent": 0
     },
     {
-      "time": "2025-10-27 08:00",
-      "temperature_fahrenheit": 38.7,
+      "time": "2025-10-28 08:00",
+      "temperature_fahrenheit": 42.9,
+      "condition": "Sunny",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-10-28 09:00",
+      "temperature_fahrenheit": 44.2,
       "condition": "Overcast ",
       "chance_of_rain_percent": 0
     },
     {
-      "time": "2025-10-27 09:00",
-      "temperature_fahrenheit": 41.1,
+      "time": "2025-10-28 10:00",
+      "temperature_fahrenheit": 45.9,
       "condition": "Overcast ",
       "chance_of_rain_percent": 0
     },
     {
-      "time": "2025-10-27 10:00",
-      "temperature_fahrenheit": 44.1,
+      "time": "2025-10-28 11:00",
+      "temperature_fahrenheit": 48.7,
       "condition": "Overcast ",
       "chance_of_rain_percent": 0
     },
     {
-      "time": "2025-10-27 11:00",
-      "temperature_fahrenheit": 47.7,
+      "time": "2025-10-28 12:00",
+      "temperature_fahrenheit": 51.7,
       "condition": "Cloudy ",
       "chance_of_rain_percent": 0
     },
     {
-      "time": "2025-10-27 12:00",
+      "time": "2025-10-28 13:00",
+      "temperature_fahrenheit": 53.3,
+      "condition": "Overcast ",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-10-28 14:00",
+      "temperature_fahrenheit": 52.7,
+      "condition": "Overcast ",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-10-28 15:00",
+      "temperature_fahrenheit": 51.1,
+      "condition": "Overcast ",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-10-28 16:00",
       "temperature_fahrenheit": 49.8,
-      "condition": "Partly Cloudy ",
-      "chance_of_rain_percent": 0
-    },
-    {
-      "time": "2025-10-27 13:00",
-      "temperature_fahrenheit": 51.6,
       "condition": "Overcast ",
       "chance_of_rain_percent": 0
     },
     {
-      "time": "2025-10-27 14:00",
-      "temperature_fahrenheit": 52.9,
+      "time": "2025-10-28 17:00",
+      "temperature_fahrenheit": 48.7,
       "condition": "Overcast ",
       "chance_of_rain_percent": 0
     },
     {
-      "time": "2025-10-27 15:00",
-      "temperature_fahrenheit": 53.9,
+      "time": "2025-10-28 18:00",
+      "temperature_fahrenheit": 47.6,
+      "condition": "Cloudy ",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "time": "2025-10-28 19:00",
+      "temperature_fahrenheit": 46.9,
       "condition": "Overcast ",
       "chance_of_rain_percent": 0
     },
     {
-      "time": "2025-10-27 16:00",
-      "temperature_fahrenheit": 50.9,
-      "condition": "Sunny",
+      "time": "2025-10-28 20:00",
+      "temperature_fahrenheit": 46.4,
+      "condition": "Overcast ",
       "chance_of_rain_percent": 0
     },
     {
-      "time": "2025-10-27 17:00",
-      "temperature_fahrenheit": 47.8,
-      "condition": "Sunny",
+      "time": "2025-10-28 21:00",
+      "temperature_fahrenheit": 46.0,
+      "condition": "Overcast ",
       "chance_of_rain_percent": 0
     },
     {
-      "time": "2025-10-27 18:00",
-      "temperature_fahrenheit": 44.5,
-      "condition": "Partly Cloudy ",
+      "time": "2025-10-28 22:00",
+      "temperature_fahrenheit": 47.1,
+      "condition": "Overcast ",
       "chance_of_rain_percent": 0
     },
     {
-      "time": "2025-10-27 19:00",
-      "temperature_fahrenheit": 43.0,
-      "condition": "Partly Cloudy ",
-      "chance_of_rain_percent": 0
-    },
-    {
-      "time": "2025-10-27 20:00",
-      "temperature_fahrenheit": 42.3,
-      "condition": "Partly Cloudy ",
-      "chance_of_rain_percent": 0
-    },
-    {
-      "time": "2025-10-27 21:00",
-      "temperature_fahrenheit": 42.0,
-      "condition": "Partly Cloudy ",
-      "chance_of_rain_percent": 0
-    },
-    {
-      "time": "2025-10-27 22:00",
-      "temperature_fahrenheit": 40.8,
-      "condition": "Partly Cloudy ",
-      "chance_of_rain_percent": 0
-    },
-    {
-      "time": "2025-10-27 23:00",
-      "temperature_fahrenheit": 40.3,
+      "time": "2025-10-28 23:00",
+      "temperature_fahrenheit": 45.5,
       "condition": "Clear ",
       "chance_of_rain_percent": 0
     }
