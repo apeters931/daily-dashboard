@@ -2,26 +2,26 @@
   "location": "Madison",
   "full_forecast": [
     {
-      "date": "2025-10-28",
-      "max_temp_f": 54.9,
-      "min_temp_f": 41.5,
-      "avg_temp_f": 46.2,
-      "condition": "Overcast ",
-      "chance_of_rain_percent": 0
-    },
-    {
       "date": "2025-10-29",
-      "max_temp_f": 54.7,
-      "min_temp_f": 43.2,
-      "avg_temp_f": 47.2,
+      "max_temp_f": 51.3,
+      "min_temp_f": 38.9,
+      "avg_temp_f": 46.0,
       "condition": "Overcast ",
       "chance_of_rain_percent": 0
     },
     {
       "date": "2025-10-30",
-      "max_temp_f": 41.7,
-      "min_temp_f": 37.9,
-      "avg_temp_f": 42.1,
+      "max_temp_f": 44.2,
+      "min_temp_f": 42.1,
+      "avg_temp_f": 43.0,
+      "condition": "Overcast ",
+      "chance_of_rain_percent": 0
+    },
+    {
+      "date": "2025-10-31",
+      "max_temp_f": 47.3,
+      "min_temp_f": 40.3,
+      "avg_temp_f": 43.1,
       "condition": "Overcast ",
       "chance_of_rain_percent": 0
     }
