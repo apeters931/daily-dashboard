@@ -1,23 +1,23 @@
 {
     "game_summary": {
-        "away_team": "St. Louis Cardinals",
-        "home_team": "Milwaukee Brewers"
+        "away_team": "Milwaukee Brewers",
+        "home_team": "Los Angeles Dodgers"
     },
     "inning_scores": [
         {
             "inning": 1,
-            "away_runs": 2,
-            "home_runs": 0
+            "away_runs": 0,
+            "home_runs": 1
         },
         {
             "inning": 2,
-            "away_runs": 0,
+            "away_runs": 1,
             "home_runs": 0
         },
         {
             "inning": 3,
-            "away_runs": 1,
-            "home_runs": 1
+            "away_runs": 0,
+            "home_runs": 0
         },
         {
             "inning": 4,
@@ -26,13 +26,13 @@
         },
         {
             "inning": 5,
-            "away_runs": 1,
+            "away_runs": 0,
             "home_runs": 0
         },
         {
             "inning": 6,
-            "away_runs": 2,
-            "home_runs": 1
+            "away_runs": 0,
+            "home_runs": 2
         },
         {
             "inning": 7,
@@ -42,25 +42,20 @@
         {
             "inning": 8,
             "away_runs": 0,
-            "home_runs": 2
+            "home_runs": 0
         },
         {
             "inning": 9,
-            "away_runs": 1,
-            "home_runs": 3
-        },
-        {
-            "inning": 10,
-            "away_runs": 1,
-            "home_runs": 2
+            "away_runs": 0,
+            "home_runs": 0
         }
     ],
     "final_score": {
-        "away_runs": 8,
-        "home_runs": 9,
-        "away_hits": 12,
-        "home_hits": 11,
-        "away_errors": 0,
-        "home_errors": 3
+        "away_runs": 1,
+        "home_runs": 3,
+        "away_hits": 4,
+        "home_hits": 5,
+        "away_errors": 1,
+        "home_errors": 1
     }
 }

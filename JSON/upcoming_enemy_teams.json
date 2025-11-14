@@ -1,16 +1,3 @@
 [
-    {
-        "away_team":"Tampa Bay Rays",
-        "home_team":"Chicago Cubs",
-        "away_pitcher":"Adrian Houser",
-        "away_wins":8,
-        "away_losses":4,
-        "away_era":"3.11",
-        "home_pitcher":"Shota Imanaga",
-        "home_wins":9,
-        "home_losses":7,
-        "home_era":"3.29",
-        "game_time_ct":"2025-09-14 01:20 PM",
-        "networks":"WDAE 620 AM\/95.3 FM, 670 The Score, Marquee Sports Network, FanDuel Sports Network Sun, WRTO 1200, WQBN\/1300AM"
-    }
+
 ]
